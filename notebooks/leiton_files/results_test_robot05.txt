@@ -1,0 +1,2444 @@
+Testing different combinations of alpha, beta, r_search and r_wait
+Testing alpha=0.1, beta=0.1, r_search=1, r_wait=0
+ Average Reward: 405.00
+Testing alpha=0.1, beta=0.1, r_search=2, r_wait=0
+ Average Reward: 889.00
+Testing alpha=0.1, beta=0.1, r_search=2, r_wait=1
+ Average Reward: 971.06
+Testing alpha=0.1, beta=0.1, r_search=3, r_wait=0
+ Average Reward: 1376.34
+Testing alpha=0.1, beta=0.1, r_search=3, r_wait=1
+ Average Reward: 1454.04
+Testing alpha=0.1, beta=0.1, r_search=3, r_wait=2
+ Average Reward: 1887.40
+Testing alpha=0.1, beta=0.1, r_search=4, r_wait=0
+ Average Reward: 1862.86
+Testing alpha=0.1, beta=0.1, r_search=4, r_wait=1
+ Average Reward: 1936.32
+Testing alpha=0.1, beta=0.1, r_search=4, r_wait=2
+ Average Reward: 1953.41
+Testing alpha=0.1, beta=0.1, r_search=4, r_wait=3
+ Average Reward: 2836.57
+Testing alpha=0.1, beta=0.1, r_search=5, r_wait=0
+ Average Reward: 2340.52
+Testing alpha=0.1, beta=0.1, r_search=5, r_wait=1
+ Average Reward: 2430.49
+Testing alpha=0.1, beta=0.1, r_search=5, r_wait=2
+ Average Reward: 2509.21
+Testing alpha=0.1, beta=0.1, r_search=5, r_wait=3
+ Average Reward: 2866.95
+Testing alpha=0.1, beta=0.1, r_search=5, r_wait=4
+ Average Reward: 3785.79
+Testing alpha=0.1, beta=0.2, r_search=1, r_wait=0
+ Average Reward: 417.98
+Testing alpha=0.1, beta=0.2, r_search=2, r_wait=0
+ Average Reward: 903.69
+Testing alpha=0.1, beta=0.2, r_search=2, r_wait=1
+ Average Reward: 971.58
+Testing alpha=0.1, beta=0.2, r_search=3, r_wait=0
+ Average Reward: 1392.75
+Testing alpha=0.1, beta=0.2, r_search=3, r_wait=1
+ Average Reward: 1470.04
+Testing alpha=0.1, beta=0.2, r_search=3, r_wait=2
+ Average Reward: 1892.22
+Testing alpha=0.1, beta=0.2, r_search=4, r_wait=0
+ Average Reward: 1873.95
+Testing alpha=0.1, beta=0.2, r_search=4, r_wait=1
+ Average Reward: 1952.48
+Testing alpha=0.1, beta=0.2, r_search=4, r_wait=2
+ Average Reward: 1963.56
+Testing alpha=0.1, beta=0.2, r_search=4, r_wait=3
+ Average Reward: 2849.43
+Testing alpha=0.1, beta=0.2, r_search=5, r_wait=0
+ Average Reward: 2363.29
+Testing alpha=0.1, beta=0.2, r_search=5, r_wait=1
+ Average Reward: 2448.41
+Testing alpha=0.1, beta=0.2, r_search=5, r_wait=2
+ Average Reward: 2522.42
+Testing alpha=0.1, beta=0.2, r_search=5, r_wait=3
+ Average Reward: 2873.09
+Testing alpha=0.1, beta=0.2, r_search=5, r_wait=4
+ Average Reward: 3794.93
+Testing alpha=0.1, beta=0.3, r_search=1, r_wait=0
+ Average Reward: 425.60
+Testing alpha=0.1, beta=0.3, r_search=2, r_wait=0
+ Average Reward: 915.66
+Testing alpha=0.1, beta=0.3, r_search=2, r_wait=1
+ Average Reward: 972.72
+Testing alpha=0.1, beta=0.3, r_search=3, r_wait=0
+ Average Reward: 1400.55
+Testing alpha=0.1, beta=0.3, r_search=3, r_wait=1
+ Average Reward: 1480.40
+Testing alpha=0.1, beta=0.3, r_search=3, r_wait=2
+ Average Reward: 1897.16
+Testing alpha=0.1, beta=0.3, r_search=4, r_wait=0
+ Average Reward: 1888.22
+Testing alpha=0.1, beta=0.3, r_search=4, r_wait=1
+ Average Reward: 1970.23
+Testing alpha=0.1, beta=0.3, r_search=4, r_wait=2
+ Average Reward: 1976.37
+Testing alpha=0.1, beta=0.3, r_search=4, r_wait=3
+ Average Reward: 2856.84
+Testing alpha=0.1, beta=0.3, r_search=5, r_wait=0
+ Average Reward: 2381.17
+Testing alpha=0.1, beta=0.3, r_search=5, r_wait=1
+ Average Reward: 2464.34
+Testing alpha=0.1, beta=0.3, r_search=5, r_wait=2
+ Average Reward: 2535.82
+Testing alpha=0.1, beta=0.3, r_search=5, r_wait=3
+ Average Reward: 2884.92
+Testing alpha=0.1, beta=0.3, r_search=5, r_wait=4
+ Average Reward: 3810.03
+Testing alpha=0.1, beta=0.4, r_search=1, r_wait=0
+ Average Reward: 436.62
+Testing alpha=0.1, beta=0.4, r_search=2, r_wait=0
+ Average Reward: 927.46
+Testing alpha=0.1, beta=0.4, r_search=2, r_wait=1
+ Average Reward: 974.21
+Testing alpha=0.1, beta=0.4, r_search=3, r_wait=0
+ Average Reward: 1414.74
+Testing alpha=0.1, beta=0.4, r_search=3, r_wait=1
+ Average Reward: 1493.63
+Testing alpha=0.1, beta=0.4, r_search=3, r_wait=2
+ Average Reward: 1905.40
+Testing alpha=0.1, beta=0.4, r_search=4, r_wait=0
+ Average Reward: 1901.51
+Testing alpha=0.1, beta=0.4, r_search=4, r_wait=1
+ Average Reward: 1984.31
+Testing alpha=0.1, beta=0.4, r_search=4, r_wait=2
+ Average Reward: 1992.95
+Testing alpha=0.1, beta=0.4, r_search=4, r_wait=3
+ Average Reward: 2864.20
+Testing alpha=0.1, beta=0.4, r_search=5, r_wait=0
+ Average Reward: 2399.94
+Testing alpha=0.1, beta=0.4, r_search=5, r_wait=1
+ Average Reward: 2472.77
+Testing alpha=0.1, beta=0.4, r_search=5, r_wait=2
+ Average Reward: 2550.83
+Testing alpha=0.1, beta=0.4, r_search=5, r_wait=3
+ Average Reward: 2898.76
+Testing alpha=0.1, beta=0.4, r_search=5, r_wait=4
+ Average Reward: 3822.34
+Testing alpha=0.1, beta=0.5, r_search=1, r_wait=0
+ Average Reward: 445.98
+Testing alpha=0.1, beta=0.5, r_search=2, r_wait=0
+ Average Reward: 937.06
+Testing alpha=0.1, beta=0.5, r_search=2, r_wait=1
+ Average Reward: 978.59
+Testing alpha=0.1, beta=0.5, r_search=3, r_wait=0
+ Average Reward: 1430.49
+Testing alpha=0.1, beta=0.5, r_search=3, r_wait=1
+ Average Reward: 1507.08
+Testing alpha=0.1, beta=0.5, r_search=3, r_wait=2
+ Average Reward: 1917.44
+Testing alpha=0.1, beta=0.5, r_search=4, r_wait=0
+ Average Reward: 1919.21
+Testing alpha=0.1, beta=0.5, r_search=4, r_wait=1
+ Average Reward: 2002.81
+Testing alpha=0.1, beta=0.5, r_search=4, r_wait=2
+ Average Reward: 2012.70
+Testing alpha=0.1, beta=0.5, r_search=4, r_wait=3
+ Average Reward: 2874.77
+Testing alpha=0.1, beta=0.5, r_search=5, r_wait=0
+ Average Reward: 2406.32
+Testing alpha=0.1, beta=0.5, r_search=5, r_wait=1
+ Average Reward: 2490.98
+Testing alpha=0.1, beta=0.5, r_search=5, r_wait=2
+ Average Reward: 2568.97
+Testing alpha=0.1, beta=0.5, r_search=5, r_wait=3
+ Average Reward: 2917.22
+Testing alpha=0.1, beta=0.5, r_search=5, r_wait=4
+ Average Reward: 3837.42
+Testing alpha=0.1, beta=0.6, r_search=1, r_wait=0
+ Average Reward: 457.84
+Testing alpha=0.1, beta=0.6, r_search=2, r_wait=0
+ Average Reward: 949.73
+Testing alpha=0.1, beta=0.6, r_search=2, r_wait=1
+ Average Reward: 991.51
+Testing alpha=0.1, beta=0.6, r_search=3, r_wait=0
+ Average Reward: 1438.02
+Testing alpha=0.1, beta=0.6, r_search=3, r_wait=1
+ Average Reward: 1519.26
+Testing alpha=0.1, beta=0.6, r_search=3, r_wait=2
+ Average Reward: 1927.45
+Testing alpha=0.1, beta=0.6, r_search=4, r_wait=0
+ Average Reward: 1920.28
+Testing alpha=0.1, beta=0.6, r_search=4, r_wait=1
+ Average Reward: 2000.47
+Testing alpha=0.1, beta=0.6, r_search=4, r_wait=2
+ Average Reward: 2029.74
+Testing alpha=0.1, beta=0.6, r_search=4, r_wait=3
+ Average Reward: 2890.54
+Testing alpha=0.1, beta=0.6, r_search=5, r_wait=0
+ Average Reward: 2560.24
+Testing alpha=0.1, beta=0.6, r_search=5, r_wait=1
+ Average Reward: 2626.48
+Testing alpha=0.1, beta=0.6, r_search=5, r_wait=2
+ Average Reward: 2685.90
+Testing alpha=0.1, beta=0.6, r_search=5, r_wait=3
+ Average Reward: 2944.63
+Testing alpha=0.1, beta=0.6, r_search=5, r_wait=4
+ Average Reward: 3850.50
+Testing alpha=0.1, beta=0.7, r_search=1, r_wait=0
+ Average Reward: 468.79
+Testing alpha=0.1, beta=0.7, r_search=2, r_wait=0
+ Average Reward: 962.03
+Testing alpha=0.1, beta=0.7, r_search=2, r_wait=1
+ Average Reward: 1005.01
+Testing alpha=0.1, beta=0.7, r_search=3, r_wait=0
+ Average Reward: 1505.22
+Testing alpha=0.1, beta=0.7, r_search=3, r_wait=1
+ Average Reward: 1591.40
+Testing alpha=0.1, beta=0.7, r_search=3, r_wait=2
+ Average Reward: 1941.87
+Testing alpha=0.1, beta=0.7, r_search=4, r_wait=0
+ Average Reward: 2211.74
+Testing alpha=0.1, beta=0.7, r_search=4, r_wait=1
+ Average Reward: 2287.05
+Testing alpha=0.1, beta=0.7, r_search=4, r_wait=2
+ Average Reward: 2315.10
+Testing alpha=0.1, beta=0.7, r_search=4, r_wait=3
+ Average Reward: 2902.07
+Testing alpha=0.1, beta=0.7, r_search=5, r_wait=0
+ Average Reward: 2919.26
+Testing alpha=0.1, beta=0.7, r_search=5, r_wait=1
+ Average Reward: 2985.32
+Testing alpha=0.1, beta=0.7, r_search=5, r_wait=2
+ Average Reward: 3054.58
+Testing alpha=0.1, beta=0.7, r_search=5, r_wait=3
+ Average Reward: 3032.94
+Testing alpha=0.1, beta=0.7, r_search=5, r_wait=4
+ Average Reward: 3865.97
+Testing alpha=0.1, beta=0.8, r_search=1, r_wait=0
+ Average Reward: 479.08
+Testing alpha=0.1, beta=0.8, r_search=2, r_wait=0
+ Average Reward: 1070.15
+Testing alpha=0.1, beta=0.8, r_search=2, r_wait=1
+ Average Reward: 1099.74
+Testing alpha=0.1, beta=0.8, r_search=3, r_wait=0
+ Average Reward: 1840.41
+Testing alpha=0.1, beta=0.8, r_search=3, r_wait=1
+ Average Reward: 1907.06
+Testing alpha=0.1, beta=0.8, r_search=3, r_wait=2
+ Average Reward: 1962.57
+Testing alpha=0.1, beta=0.8, r_search=4, r_wait=0
+ Average Reward: 2561.61
+Testing alpha=0.1, beta=0.8, r_search=4, r_wait=1
+ Average Reward: 2652.06
+Testing alpha=0.1, beta=0.8, r_search=4, r_wait=2
+ Average Reward: 2709.76
+Testing alpha=0.1, beta=0.8, r_search=4, r_wait=3
+ Average Reward: 2915.79
+Testing alpha=0.1, beta=0.8, r_search=5, r_wait=0
+ Average Reward: 3325.67
+Testing alpha=0.1, beta=0.8, r_search=5, r_wait=1
+ Average Reward: 3404.92
+Testing alpha=0.1, beta=0.8, r_search=5, r_wait=2
+ Average Reward: 3468.23
+Testing alpha=0.1, beta=0.8, r_search=5, r_wait=3
+ Average Reward: 3511.75
+Testing alpha=0.1, beta=0.8, r_search=5, r_wait=4
+ Average Reward: 3882.87
+Testing alpha=0.1, beta=0.9, r_search=1, r_wait=0
+ Average Reward: 576.25
+Testing alpha=0.1, beta=0.9, r_search=2, r_wait=0
+ Average Reward: 1384.11
+Testing alpha=0.1, beta=0.9, r_search=2, r_wait=1
+ Average Reward: 1450.90
+Testing alpha=0.1, beta=0.9, r_search=3, r_wait=0
+ Average Reward: 2187.84
+Testing alpha=0.1, beta=0.9, r_search=3, r_wait=1
+ Average Reward: 2262.67
+Testing alpha=0.1, beta=0.9, r_search=3, r_wait=2
+ Average Reward: 2306.71
+Testing alpha=0.1, beta=0.9, r_search=4, r_wait=0
+ Average Reward: 2996.11
+Testing alpha=0.1, beta=0.9, r_search=4, r_wait=1
+ Average Reward: 3068.90
+Testing alpha=0.1, beta=0.9, r_search=4, r_wait=2
+ Average Reward: 3138.28
+Testing alpha=0.1, beta=0.9, r_search=4, r_wait=3
+ Average Reward: 3159.75
+Testing alpha=0.1, beta=0.9, r_search=5, r_wait=0
+ Average Reward: 3792.03
+Testing alpha=0.1, beta=0.9, r_search=5, r_wait=1
+ Average Reward: 3858.02
+Testing alpha=0.1, beta=0.9, r_search=5, r_wait=2
+ Average Reward: 3939.88
+Testing alpha=0.1, beta=0.9, r_search=5, r_wait=3
+ Average Reward: 4016.54
+Testing alpha=0.1, beta=0.9, r_search=5, r_wait=4
+ Average Reward: 4033.17
+Testing alpha=0.2, beta=0.1, r_search=1, r_wait=0
+ Average Reward: 437.60
+Testing alpha=0.2, beta=0.1, r_search=2, r_wait=0
+ Average Reward: 950.76
+Testing alpha=0.2, beta=0.1, r_search=2, r_wait=1
+ Average Reward: 999.46
+Testing alpha=0.2, beta=0.1, r_search=3, r_wait=0
+ Average Reward: 1456.71
+Testing alpha=0.2, beta=0.1, r_search=3, r_wait=1
+ Average Reward: 1534.95
+Testing alpha=0.2, beta=0.1, r_search=3, r_wait=2
+ Average Reward: 1899.55
+Testing alpha=0.2, beta=0.1, r_search=4, r_wait=0
+ Average Reward: 1974.63
+Testing alpha=0.2, beta=0.1, r_search=4, r_wait=1
+ Average Reward: 2056.39
+Testing alpha=0.2, beta=0.1, r_search=4, r_wait=2
+ Average Reward: 2068.36
+Testing alpha=0.2, beta=0.1, r_search=4, r_wait=3
+ Average Reward: 2851.44
+Testing alpha=0.2, beta=0.1, r_search=5, r_wait=0
+ Average Reward: 2478.29
+Testing alpha=0.2, beta=0.1, r_search=5, r_wait=1
+ Average Reward: 2569.25
+Testing alpha=0.2, beta=0.1, r_search=5, r_wait=2
+ Average Reward: 2643.63
+Testing alpha=0.2, beta=0.1, r_search=5, r_wait=3
+ Average Reward: 2873.71
+Testing alpha=0.2, beta=0.1, r_search=5, r_wait=4
+ Average Reward: 3806.11
+Testing alpha=0.2, beta=0.2, r_search=1, r_wait=0
+ Average Reward: 446.30
+Testing alpha=0.2, beta=0.2, r_search=2, r_wait=0
+ Average Reward: 959.51
+Testing alpha=0.2, beta=0.2, r_search=2, r_wait=1
+ Average Reward: 1004.10
+Testing alpha=0.2, beta=0.2, r_search=3, r_wait=0
+ Average Reward: 1471.47
+Testing alpha=0.2, beta=0.2, r_search=3, r_wait=1
+ Average Reward: 1555.39
+Testing alpha=0.2, beta=0.2, r_search=3, r_wait=2
+ Average Reward: 1906.76
+Testing alpha=0.2, beta=0.2, r_search=4, r_wait=0
+ Average Reward: 1987.79
+Testing alpha=0.2, beta=0.2, r_search=4, r_wait=1
+ Average Reward: 2069.07
+Testing alpha=0.2, beta=0.2, r_search=4, r_wait=2
+ Average Reward: 2074.63
+Testing alpha=0.2, beta=0.2, r_search=4, r_wait=3
+ Average Reward: 2862.70
+Testing alpha=0.2, beta=0.2, r_search=5, r_wait=0
+ Average Reward: 2501.55
+Testing alpha=0.2, beta=0.2, r_search=5, r_wait=1
+ Average Reward: 2572.73
+Testing alpha=0.2, beta=0.2, r_search=5, r_wait=2
+ Average Reward: 2653.12
+Testing alpha=0.2, beta=0.2, r_search=5, r_wait=3
+ Average Reward: 2883.88
+Testing alpha=0.2, beta=0.2, r_search=5, r_wait=4
+ Average Reward: 3822.34
+Testing alpha=0.2, beta=0.3, r_search=1, r_wait=0
+ Average Reward: 454.59
+Testing alpha=0.2, beta=0.3, r_search=2, r_wait=0
+ Average Reward: 968.51
+Testing alpha=0.2, beta=0.3, r_search=2, r_wait=1
+ Average Reward: 1008.74
+Testing alpha=0.2, beta=0.3, r_search=3, r_wait=0
+ Average Reward: 1486.20
+Testing alpha=0.2, beta=0.3, r_search=3, r_wait=1
+ Average Reward: 1562.30
+Testing alpha=0.2, beta=0.3, r_search=3, r_wait=2
+ Average Reward: 1911.06
+Testing alpha=0.2, beta=0.3, r_search=4, r_wait=0
+ Average Reward: 1996.48
+Testing alpha=0.2, beta=0.3, r_search=4, r_wait=1
+ Average Reward: 2078.75
+Testing alpha=0.2, beta=0.3, r_search=4, r_wait=2
+ Average Reward: 2083.78
+Testing alpha=0.2, beta=0.3, r_search=4, r_wait=3
+ Average Reward: 2868.88
+Testing alpha=0.2, beta=0.3, r_search=5, r_wait=0
+ Average Reward: 2509.76
+Testing alpha=0.2, beta=0.3, r_search=5, r_wait=1
+ Average Reward: 2591.01
+Testing alpha=0.2, beta=0.3, r_search=5, r_wait=2
+ Average Reward: 2669.06
+Testing alpha=0.2, beta=0.3, r_search=5, r_wait=3
+ Average Reward: 2898.07
+Testing alpha=0.2, beta=0.3, r_search=5, r_wait=4
+ Average Reward: 3825.45
+Testing alpha=0.2, beta=0.4, r_search=1, r_wait=0
+ Average Reward: 465.93
+Testing alpha=0.2, beta=0.4, r_search=2, r_wait=0
+ Average Reward: 979.69
+Testing alpha=0.2, beta=0.4, r_search=2, r_wait=1
+ Average Reward: 1016.74
+Testing alpha=0.2, beta=0.4, r_search=3, r_wait=0
+ Average Reward: 1496.67
+Testing alpha=0.2, beta=0.4, r_search=3, r_wait=1
+ Average Reward: 1575.41
+Testing alpha=0.2, beta=0.4, r_search=3, r_wait=2
+ Average Reward: 1915.95
+Testing alpha=0.2, beta=0.4, r_search=4, r_wait=0
+ Average Reward: 2011.24
+Testing alpha=0.2, beta=0.4, r_search=4, r_wait=1
+ Average Reward: 2094.86
+Testing alpha=0.2, beta=0.4, r_search=4, r_wait=2
+ Average Reward: 2089.11
+Testing alpha=0.2, beta=0.4, r_search=4, r_wait=3
+ Average Reward: 2880.68
+Testing alpha=0.2, beta=0.4, r_search=5, r_wait=0
+ Average Reward: 2530.96
+Testing alpha=0.2, beta=0.4, r_search=5, r_wait=1
+ Average Reward: 2608.46
+Testing alpha=0.2, beta=0.4, r_search=5, r_wait=2
+ Average Reward: 2684.69
+Testing alpha=0.2, beta=0.4, r_search=5, r_wait=3
+ Average Reward: 2911.88
+Testing alpha=0.2, beta=0.4, r_search=5, r_wait=4
+ Average Reward: 3839.69
+Testing alpha=0.2, beta=0.5, r_search=1, r_wait=0
+ Average Reward: 475.03
+Testing alpha=0.2, beta=0.5, r_search=2, r_wait=0
+ Average Reward: 994.02
+Testing alpha=0.2, beta=0.5, r_search=2, r_wait=1
+ Average Reward: 1025.65
+Testing alpha=0.2, beta=0.5, r_search=3, r_wait=0
+ Average Reward: 1509.87
+Testing alpha=0.2, beta=0.5, r_search=3, r_wait=1
+ Average Reward: 1587.33
+Testing alpha=0.2, beta=0.5, r_search=3, r_wait=2
+ Average Reward: 1922.91
+Testing alpha=0.2, beta=0.5, r_search=4, r_wait=0
+ Average Reward: 2035.08
+Testing alpha=0.2, beta=0.5, r_search=4, r_wait=1
+ Average Reward: 2102.84
+Testing alpha=0.2, beta=0.5, r_search=4, r_wait=2
+ Average Reward: 2100.03
+Testing alpha=0.2, beta=0.5, r_search=4, r_wait=3
+ Average Reward: 2889.20
+Testing alpha=0.2, beta=0.5, r_search=5, r_wait=0
+ Average Reward: 2539.85
+Testing alpha=0.2, beta=0.5, r_search=5, r_wait=1
+ Average Reward: 2622.66
+Testing alpha=0.2, beta=0.5, r_search=5, r_wait=2
+ Average Reward: 2697.11
+Testing alpha=0.2, beta=0.5, r_search=5, r_wait=3
+ Average Reward: 2934.95
+Testing alpha=0.2, beta=0.5, r_search=5, r_wait=4
+ Average Reward: 3852.87
+Testing alpha=0.2, beta=0.6, r_search=1, r_wait=0
+ Average Reward: 484.18
+Testing alpha=0.2, beta=0.6, r_search=2, r_wait=0
+ Average Reward: 1005.50
+Testing alpha=0.2, beta=0.6, r_search=2, r_wait=1
+ Average Reward: 1028.60
+Testing alpha=0.2, beta=0.6, r_search=3, r_wait=0
+ Average Reward: 1524.06
+Testing alpha=0.2, beta=0.6, r_search=3, r_wait=1
+ Average Reward: 1598.55
+Testing alpha=0.2, beta=0.6, r_search=3, r_wait=2
+ Average Reward: 1932.45
+Testing alpha=0.2, beta=0.6, r_search=4, r_wait=0
+ Average Reward: 2021.85
+Testing alpha=0.2, beta=0.6, r_search=4, r_wait=1
+ Average Reward: 2102.59
+Testing alpha=0.2, beta=0.6, r_search=4, r_wait=2
+ Average Reward: 2109.68
+Testing alpha=0.2, beta=0.6, r_search=4, r_wait=3
+ Average Reward: 2898.45
+Testing alpha=0.2, beta=0.6, r_search=5, r_wait=0
+ Average Reward: 2632.88
+Testing alpha=0.2, beta=0.6, r_search=5, r_wait=1
+ Average Reward: 2717.03
+Testing alpha=0.2, beta=0.6, r_search=5, r_wait=2
+ Average Reward: 2770.13
+Testing alpha=0.2, beta=0.6, r_search=5, r_wait=3
+ Average Reward: 2962.23
+Testing alpha=0.2, beta=0.6, r_search=5, r_wait=4
+ Average Reward: 3862.76
+Testing alpha=0.2, beta=0.7, r_search=1, r_wait=0
+ Average Reward: 492.83
+Testing alpha=0.2, beta=0.7, r_search=2, r_wait=0
+ Average Reward: 1010.72
+Testing alpha=0.2, beta=0.7, r_search=2, r_wait=1
+ Average Reward: 1040.37
+Testing alpha=0.2, beta=0.7, r_search=3, r_wait=0
+ Average Reward: 1559.82
+Testing alpha=0.2, beta=0.7, r_search=3, r_wait=1
+ Average Reward: 1631.70
+Testing alpha=0.2, beta=0.7, r_search=3, r_wait=2
+ Average Reward: 1946.13
+Testing alpha=0.2, beta=0.7, r_search=4, r_wait=0
+ Average Reward: 2261.01
+Testing alpha=0.2, beta=0.7, r_search=4, r_wait=1
+ Average Reward: 2336.27
+Testing alpha=0.2, beta=0.7, r_search=4, r_wait=2
+ Average Reward: 2366.96
+Testing alpha=0.2, beta=0.7, r_search=4, r_wait=3
+ Average Reward: 2911.24
+Testing alpha=0.2, beta=0.7, r_search=5, r_wait=0
+ Average Reward: 2972.26
+Testing alpha=0.2, beta=0.7, r_search=5, r_wait=1
+ Average Reward: 3043.01
+Testing alpha=0.2, beta=0.7, r_search=5, r_wait=2
+ Average Reward: 3110.09
+Testing alpha=0.2, beta=0.7, r_search=5, r_wait=3
+ Average Reward: 3077.61
+Testing alpha=0.2, beta=0.7, r_search=5, r_wait=4
+ Average Reward: 3877.65
+Testing alpha=0.2, beta=0.8, r_search=1, r_wait=0
+ Average Reward: 505.37
+Testing alpha=0.2, beta=0.8, r_search=2, r_wait=0
+ Average Reward: 1096.65
+Testing alpha=0.2, beta=0.8, r_search=2, r_wait=1
+ Average Reward: 1129.02
+Testing alpha=0.2, beta=0.8, r_search=3, r_wait=0
+ Average Reward: 1851.21
+Testing alpha=0.2, beta=0.8, r_search=3, r_wait=1
+ Average Reward: 1927.14
+Testing alpha=0.2, beta=0.8, r_search=3, r_wait=2
+ Average Reward: 1977.37
+Testing alpha=0.2, beta=0.8, r_search=4, r_wait=0
+ Average Reward: 2621.66
+Testing alpha=0.2, beta=0.8, r_search=4, r_wait=1
+ Average Reward: 2672.71
+Testing alpha=0.2, beta=0.8, r_search=4, r_wait=2
+ Average Reward: 2741.58
+Testing alpha=0.2, beta=0.8, r_search=4, r_wait=3
+ Average Reward: 2922.39
+Testing alpha=0.2, beta=0.8, r_search=5, r_wait=0
+ Average Reward: 3365.08
+Testing alpha=0.2, beta=0.8, r_search=5, r_wait=1
+ Average Reward: 3432.85
+Testing alpha=0.2, beta=0.8, r_search=5, r_wait=2
+ Average Reward: 3506.16
+Testing alpha=0.2, beta=0.8, r_search=5, r_wait=3
+ Average Reward: 3550.38
+Testing alpha=0.2, beta=0.8, r_search=5, r_wait=4
+ Average Reward: 3890.03
+Testing alpha=0.2, beta=0.9, r_search=1, r_wait=0
+ Average Reward: 583.44
+Testing alpha=0.2, beta=0.9, r_search=2, r_wait=0
+ Average Reward: 1394.57
+Testing alpha=0.2, beta=0.9, r_search=2, r_wait=1
+ Average Reward: 1458.48
+Testing alpha=0.2, beta=0.9, r_search=3, r_wait=0
+ Average Reward: 2206.38
+Testing alpha=0.2, beta=0.9, r_search=3, r_wait=1
+ Average Reward: 2271.49
+Testing alpha=0.2, beta=0.9, r_search=3, r_wait=2
+ Average Reward: 2326.77
+Testing alpha=0.2, beta=0.9, r_search=4, r_wait=0
+ Average Reward: 3015.86
+Testing alpha=0.2, beta=0.9, r_search=4, r_wait=1
+ Average Reward: 3088.10
+Testing alpha=0.2, beta=0.9, r_search=4, r_wait=2
+ Average Reward: 3143.69
+Testing alpha=0.2, beta=0.9, r_search=4, r_wait=3
+ Average Reward: 3176.86
+Testing alpha=0.2, beta=0.9, r_search=5, r_wait=0
+ Average Reward: 3806.72
+Testing alpha=0.2, beta=0.9, r_search=5, r_wait=1
+ Average Reward: 3889.90
+Testing alpha=0.2, beta=0.9, r_search=5, r_wait=2
+ Average Reward: 3948.69
+Testing alpha=0.2, beta=0.9, r_search=5, r_wait=3
+ Average Reward: 4023.05
+Testing alpha=0.2, beta=0.9, r_search=5, r_wait=4
+ Average Reward: 4064.61
+Testing alpha=0.3, beta=0.1, r_search=1, r_wait=0
+ Average Reward: 470.30
+Testing alpha=0.3, beta=0.1, r_search=2, r_wait=0
+ Average Reward: 1014.29
+Testing alpha=0.3, beta=0.1, r_search=2, r_wait=1
+ Average Reward: 1075.17
+Testing alpha=0.3, beta=0.1, r_search=3, r_wait=0
+ Average Reward: 1556.46
+Testing alpha=0.3, beta=0.1, r_search=3, r_wait=1
+ Average Reward: 1634.51
+Testing alpha=0.3, beta=0.1, r_search=3, r_wait=2
+ Average Reward: 1918.70
+Testing alpha=0.3, beta=0.1, r_search=4, r_wait=0
+ Average Reward: 2096.47
+Testing alpha=0.3, beta=0.1, r_search=4, r_wait=1
+ Average Reward: 2174.51
+Testing alpha=0.3, beta=0.1, r_search=4, r_wait=2
+ Average Reward: 2235.91
+Testing alpha=0.3, beta=0.1, r_search=4, r_wait=3
+ Average Reward: 2873.77
+Testing alpha=0.3, beta=0.1, r_search=5, r_wait=0
+ Average Reward: 2634.75
+Testing alpha=0.3, beta=0.1, r_search=5, r_wait=1
+ Average Reward: 2719.63
+Testing alpha=0.3, beta=0.1, r_search=5, r_wait=2
+ Average Reward: 2800.48
+Testing alpha=0.3, beta=0.1, r_search=5, r_wait=3
+ Average Reward: 2890.95
+Testing alpha=0.3, beta=0.1, r_search=5, r_wait=4
+ Average Reward: 3832.06
+Testing alpha=0.3, beta=0.2, r_search=1, r_wait=0
+ Average Reward: 480.07
+Testing alpha=0.3, beta=0.2, r_search=2, r_wait=0
+ Average Reward: 1023.65
+Testing alpha=0.3, beta=0.2, r_search=2, r_wait=1
+ Average Reward: 1081.99
+Testing alpha=0.3, beta=0.2, r_search=3, r_wait=0
+ Average Reward: 1565.49
+Testing alpha=0.3, beta=0.2, r_search=3, r_wait=1
+ Average Reward: 1648.80
+Testing alpha=0.3, beta=0.2, r_search=3, r_wait=2
+ Average Reward: 1918.10
+Testing alpha=0.3, beta=0.2, r_search=4, r_wait=0
+ Average Reward: 2101.12
+Testing alpha=0.3, beta=0.2, r_search=4, r_wait=1
+ Average Reward: 2193.34
+Testing alpha=0.3, beta=0.2, r_search=4, r_wait=2
+ Average Reward: 2238.07
+Testing alpha=0.3, beta=0.2, r_search=4, r_wait=3
+ Average Reward: 2877.17
+Testing alpha=0.3, beta=0.2, r_search=5, r_wait=0
+ Average Reward: 2643.30
+Testing alpha=0.3, beta=0.2, r_search=5, r_wait=1
+ Average Reward: 2730.07
+Testing alpha=0.3, beta=0.2, r_search=5, r_wait=2
+ Average Reward: 2811.70
+Testing alpha=0.3, beta=0.2, r_search=5, r_wait=3
+ Average Reward: 2902.20
+Testing alpha=0.3, beta=0.2, r_search=5, r_wait=4
+ Average Reward: 3830.97
+Testing alpha=0.3, beta=0.3, r_search=1, r_wait=0
+ Average Reward: 489.47
+Testing alpha=0.3, beta=0.3, r_search=2, r_wait=0
+ Average Reward: 1034.84
+Testing alpha=0.3, beta=0.3, r_search=2, r_wait=1
+ Average Reward: 1089.02
+Testing alpha=0.3, beta=0.3, r_search=3, r_wait=0
+ Average Reward: 1575.69
+Testing alpha=0.3, beta=0.3, r_search=3, r_wait=1
+ Average Reward: 1657.15
+Testing alpha=0.3, beta=0.3, r_search=3, r_wait=2
+ Average Reward: 1917.90
+Testing alpha=0.3, beta=0.3, r_search=4, r_wait=0
+ Average Reward: 2117.75
+Testing alpha=0.3, beta=0.3, r_search=4, r_wait=1
+ Average Reward: 2209.54
+Testing alpha=0.3, beta=0.3, r_search=4, r_wait=2
+ Average Reward: 2247.40
+Testing alpha=0.3, beta=0.3, r_search=4, r_wait=3
+ Average Reward: 2883.48
+Testing alpha=0.3, beta=0.3, r_search=5, r_wait=0
+ Average Reward: 2660.70
+Testing alpha=0.3, beta=0.3, r_search=5, r_wait=1
+ Average Reward: 2734.59
+Testing alpha=0.3, beta=0.3, r_search=5, r_wait=2
+ Average Reward: 2823.54
+Testing alpha=0.3, beta=0.3, r_search=5, r_wait=3
+ Average Reward: 2915.96
+Testing alpha=0.3, beta=0.3, r_search=5, r_wait=4
+ Average Reward: 3839.91
+Testing alpha=0.3, beta=0.4, r_search=1, r_wait=0
+ Average Reward: 496.17
+Testing alpha=0.3, beta=0.4, r_search=2, r_wait=0
+ Average Reward: 1040.25
+Testing alpha=0.3, beta=0.4, r_search=2, r_wait=1
+ Average Reward: 1095.90
+Testing alpha=0.3, beta=0.4, r_search=3, r_wait=0
+ Average Reward: 1589.58
+Testing alpha=0.3, beta=0.4, r_search=3, r_wait=1
+ Average Reward: 1666.83
+Testing alpha=0.3, beta=0.4, r_search=3, r_wait=2
+ Average Reward: 1923.63
+Testing alpha=0.3, beta=0.4, r_search=4, r_wait=0
+ Average Reward: 2127.74
+Testing alpha=0.3, beta=0.4, r_search=4, r_wait=1
+ Average Reward: 2211.58
+Testing alpha=0.3, beta=0.4, r_search=4, r_wait=2
+ Average Reward: 2266.49
+Testing alpha=0.3, beta=0.4, r_search=4, r_wait=3
+ Average Reward: 2893.93
+Testing alpha=0.3, beta=0.4, r_search=5, r_wait=0
+ Average Reward: 2676.05
+Testing alpha=0.3, beta=0.4, r_search=5, r_wait=1
+ Average Reward: 2754.88
+Testing alpha=0.3, beta=0.4, r_search=5, r_wait=2
+ Average Reward: 2833.62
+Testing alpha=0.3, beta=0.4, r_search=5, r_wait=3
+ Average Reward: 2940.84
+Testing alpha=0.3, beta=0.4, r_search=5, r_wait=4
+ Average Reward: 3859.00
+Testing alpha=0.3, beta=0.5, r_search=1, r_wait=0
+ Average Reward: 507.13
+Testing alpha=0.3, beta=0.5, r_search=2, r_wait=0
+ Average Reward: 1053.07
+Testing alpha=0.3, beta=0.5, r_search=2, r_wait=1
+ Average Reward: 1103.51
+Testing alpha=0.3, beta=0.5, r_search=3, r_wait=0
+ Average Reward: 1594.71
+Testing alpha=0.3, beta=0.5, r_search=3, r_wait=1
+ Average Reward: 1676.33
+Testing alpha=0.3, beta=0.5, r_search=3, r_wait=2
+ Average Reward: 1927.91
+Testing alpha=0.3, beta=0.5, r_search=4, r_wait=0
+ Average Reward: 2143.48
+Testing alpha=0.3, beta=0.5, r_search=4, r_wait=1
+ Average Reward: 2225.22
+Testing alpha=0.3, beta=0.5, r_search=4, r_wait=2
+ Average Reward: 2260.31
+Testing alpha=0.3, beta=0.5, r_search=4, r_wait=3
+ Average Reward: 2897.98
+Testing alpha=0.3, beta=0.5, r_search=5, r_wait=0
+ Average Reward: 2678.16
+Testing alpha=0.3, beta=0.5, r_search=5, r_wait=1
+ Average Reward: 2763.56
+Testing alpha=0.3, beta=0.5, r_search=5, r_wait=2
+ Average Reward: 2845.26
+Testing alpha=0.3, beta=0.5, r_search=5, r_wait=3
+ Average Reward: 2965.91
+Testing alpha=0.3, beta=0.5, r_search=5, r_wait=4
+ Average Reward: 3863.02
+Testing alpha=0.3, beta=0.6, r_search=1, r_wait=0
+ Average Reward: 513.84
+Testing alpha=0.3, beta=0.6, r_search=2, r_wait=0
+ Average Reward: 1063.88
+Testing alpha=0.3, beta=0.6, r_search=2, r_wait=1
+ Average Reward: 1111.89
+Testing alpha=0.3, beta=0.6, r_search=3, r_wait=0
+ Average Reward: 1606.62
+Testing alpha=0.3, beta=0.6, r_search=3, r_wait=1
+ Average Reward: 1688.29
+Testing alpha=0.3, beta=0.6, r_search=3, r_wait=2
+ Average Reward: 1940.91
+Testing alpha=0.3, beta=0.6, r_search=4, r_wait=0
+ Average Reward: 2138.76
+Testing alpha=0.3, beta=0.6, r_search=4, r_wait=1
+ Average Reward: 2217.08
+Testing alpha=0.3, beta=0.6, r_search=4, r_wait=2
+ Average Reward: 2272.39
+Testing alpha=0.3, beta=0.6, r_search=4, r_wait=3
+ Average Reward: 2907.06
+Testing alpha=0.3, beta=0.6, r_search=5, r_wait=0
+ Average Reward: 2745.08
+Testing alpha=0.3, beta=0.6, r_search=5, r_wait=1
+ Average Reward: 2808.07
+Testing alpha=0.3, beta=0.6, r_search=5, r_wait=2
+ Average Reward: 2879.77
+Testing alpha=0.3, beta=0.6, r_search=5, r_wait=3
+ Average Reward: 2989.57
+Testing alpha=0.3, beta=0.6, r_search=5, r_wait=4
+ Average Reward: 3877.03
+Testing alpha=0.3, beta=0.7, r_search=1, r_wait=0
+ Average Reward: 523.59
+Testing alpha=0.3, beta=0.7, r_search=2, r_wait=0
+ Average Reward: 1072.13
+Testing alpha=0.3, beta=0.7, r_search=2, r_wait=1
+ Average Reward: 1122.92
+Testing alpha=0.3, beta=0.7, r_search=3, r_wait=0
+ Average Reward: 1615.50
+Testing alpha=0.3, beta=0.7, r_search=3, r_wait=1
+ Average Reward: 1692.71
+Testing alpha=0.3, beta=0.7, r_search=3, r_wait=2
+ Average Reward: 1956.17
+Testing alpha=0.3, beta=0.7, r_search=4, r_wait=0
+ Average Reward: 2317.15
+Testing alpha=0.3, beta=0.7, r_search=4, r_wait=1
+ Average Reward: 2394.93
+Testing alpha=0.3, beta=0.7, r_search=4, r_wait=2
+ Average Reward: 2445.47
+Testing alpha=0.3, beta=0.7, r_search=4, r_wait=3
+ Average Reward: 2915.18
+Testing alpha=0.3, beta=0.7, r_search=5, r_wait=0
+ Average Reward: 3048.30
+Testing alpha=0.3, beta=0.7, r_search=5, r_wait=1
+ Average Reward: 3117.12
+Testing alpha=0.3, beta=0.7, r_search=5, r_wait=2
+ Average Reward: 3183.50
+Testing alpha=0.3, beta=0.7, r_search=5, r_wait=3
+ Average Reward: 3155.15
+Testing alpha=0.3, beta=0.7, r_search=5, r_wait=4
+ Average Reward: 3885.99
+Testing alpha=0.3, beta=0.8, r_search=1, r_wait=0
+ Average Reward: 533.91
+Testing alpha=0.3, beta=0.8, r_search=2, r_wait=0
+ Average Reward: 1126.24
+Testing alpha=0.3, beta=0.8, r_search=2, r_wait=1
+ Average Reward: 1173.45
+Testing alpha=0.3, beta=0.8, r_search=3, r_wait=0
+ Average Reward: 1881.48
+Testing alpha=0.3, beta=0.8, r_search=3, r_wait=1
+ Average Reward: 1949.08
+Testing alpha=0.3, beta=0.8, r_search=3, r_wait=2
+ Average Reward: 1989.62
+Testing alpha=0.3, beta=0.8, r_search=4, r_wait=0
+ Average Reward: 2644.44
+Testing alpha=0.3, beta=0.8, r_search=4, r_wait=1
+ Average Reward: 2713.01
+Testing alpha=0.3, beta=0.8, r_search=4, r_wait=2
+ Average Reward: 2788.31
+Testing alpha=0.3, beta=0.8, r_search=4, r_wait=3
+ Average Reward: 2929.26
+Testing alpha=0.3, beta=0.8, r_search=5, r_wait=0
+ Average Reward: 3399.31
+Testing alpha=0.3, beta=0.8, r_search=5, r_wait=1
+ Average Reward: 3474.37
+Testing alpha=0.3, beta=0.8, r_search=5, r_wait=2
+ Average Reward: 3541.78
+Testing alpha=0.3, beta=0.8, r_search=5, r_wait=3
+ Average Reward: 3598.15
+Testing alpha=0.3, beta=0.8, r_search=5, r_wait=4
+ Average Reward: 3901.06
+Testing alpha=0.3, beta=0.9, r_search=1, r_wait=0
+ Average Reward: 587.48
+Testing alpha=0.3, beta=0.9, r_search=2, r_wait=0
+ Average Reward: 1402.15
+Testing alpha=0.3, beta=0.9, r_search=2, r_wait=1
+ Average Reward: 1478.88
+Testing alpha=0.3, beta=0.9, r_search=3, r_wait=0
+ Average Reward: 2217.69
+Testing alpha=0.3, beta=0.9, r_search=3, r_wait=1
+ Average Reward: 2285.05
+Testing alpha=0.3, beta=0.9, r_search=3, r_wait=2
+ Average Reward: 2333.35
+Testing alpha=0.3, beta=0.9, r_search=4, r_wait=0
+ Average Reward: 3031.02
+Testing alpha=0.3, beta=0.9, r_search=4, r_wait=1
+ Average Reward: 3083.10
+Testing alpha=0.3, beta=0.9, r_search=4, r_wait=2
+ Average Reward: 3170.06
+Testing alpha=0.3, beta=0.9, r_search=4, r_wait=3
+ Average Reward: 3203.36
+Testing alpha=0.3, beta=0.9, r_search=5, r_wait=0
+ Average Reward: 3824.93
+Testing alpha=0.3, beta=0.9, r_search=5, r_wait=1
+ Average Reward: 3904.87
+Testing alpha=0.3, beta=0.9, r_search=5, r_wait=2
+ Average Reward: 3971.88
+Testing alpha=0.3, beta=0.9, r_search=5, r_wait=3
+ Average Reward: 4042.02
+Testing alpha=0.3, beta=0.9, r_search=5, r_wait=4
+ Average Reward: 4074.76
+Testing alpha=0.4, beta=0.1, r_search=1, r_wait=0
+ Average Reward: 511.48
+Testing alpha=0.4, beta=0.1, r_search=2, r_wait=0
+ Average Reward: 1087.12
+Testing alpha=0.4, beta=0.1, r_search=2, r_wait=1
+ Average Reward: 1157.46
+Testing alpha=0.4, beta=0.1, r_search=3, r_wait=0
+ Average Reward: 1663.32
+Testing alpha=0.4, beta=0.1, r_search=3, r_wait=1
+ Average Reward: 1747.05
+Testing alpha=0.4, beta=0.1, r_search=3, r_wait=2
+ Average Reward: 1934.80
+Testing alpha=0.4, beta=0.1, r_search=4, r_wait=0
+ Average Reward: 2230.37
+Testing alpha=0.4, beta=0.1, r_search=4, r_wait=1
+ Average Reward: 2315.54
+Testing alpha=0.4, beta=0.1, r_search=4, r_wait=2
+ Average Reward: 2390.13
+Testing alpha=0.4, beta=0.1, r_search=4, r_wait=3
+ Average Reward: 2889.57
+Testing alpha=0.4, beta=0.1, r_search=5, r_wait=0
+ Average Reward: 2805.09
+Testing alpha=0.4, beta=0.1, r_search=5, r_wait=1
+ Average Reward: 2890.70
+Testing alpha=0.4, beta=0.1, r_search=5, r_wait=2
+ Average Reward: 2967.29
+Testing alpha=0.4, beta=0.1, r_search=5, r_wait=3
+ Average Reward: 2941.00
+Testing alpha=0.4, beta=0.1, r_search=5, r_wait=4
+ Average Reward: 3853.69
+Testing alpha=0.4, beta=0.2, r_search=1, r_wait=0
+ Average Reward: 518.72
+Testing alpha=0.4, beta=0.2, r_search=2, r_wait=0
+ Average Reward: 1093.99
+Testing alpha=0.4, beta=0.2, r_search=2, r_wait=1
+ Average Reward: 1167.05
+Testing alpha=0.4, beta=0.2, r_search=3, r_wait=0
+ Average Reward: 1668.39
+Testing alpha=0.4, beta=0.2, r_search=3, r_wait=1
+ Average Reward: 1746.08
+Testing alpha=0.4, beta=0.2, r_search=3, r_wait=2
+ Average Reward: 1933.39
+Testing alpha=0.4, beta=0.2, r_search=4, r_wait=0
+ Average Reward: 2243.57
+Testing alpha=0.4, beta=0.2, r_search=4, r_wait=1
+ Average Reward: 2326.51
+Testing alpha=0.4, beta=0.2, r_search=4, r_wait=2
+ Average Reward: 2401.06
+Testing alpha=0.4, beta=0.2, r_search=4, r_wait=3
+ Average Reward: 2893.08
+Testing alpha=0.4, beta=0.2, r_search=5, r_wait=0
+ Average Reward: 2813.16
+Testing alpha=0.4, beta=0.2, r_search=5, r_wait=1
+ Average Reward: 2903.78
+Testing alpha=0.4, beta=0.2, r_search=5, r_wait=2
+ Average Reward: 2978.14
+Testing alpha=0.4, beta=0.2, r_search=5, r_wait=3
+ Average Reward: 2952.92
+Testing alpha=0.4, beta=0.2, r_search=5, r_wait=4
+ Average Reward: 3862.00
+Testing alpha=0.4, beta=0.3, r_search=1, r_wait=0
+ Average Reward: 525.59
+Testing alpha=0.4, beta=0.3, r_search=2, r_wait=0
+ Average Reward: 1102.82
+Testing alpha=0.4, beta=0.3, r_search=2, r_wait=1
+ Average Reward: 1176.12
+Testing alpha=0.4, beta=0.3, r_search=3, r_wait=0
+ Average Reward: 1666.38
+Testing alpha=0.4, beta=0.3, r_search=3, r_wait=1
+ Average Reward: 1756.73
+Testing alpha=0.4, beta=0.3, r_search=3, r_wait=2
+ Average Reward: 1928.80
+Testing alpha=0.4, beta=0.3, r_search=4, r_wait=0
+ Average Reward: 2256.57
+Testing alpha=0.4, beta=0.3, r_search=4, r_wait=1
+ Average Reward: 2338.94
+Testing alpha=0.4, beta=0.3, r_search=4, r_wait=2
+ Average Reward: 2406.05
+Testing alpha=0.4, beta=0.3, r_search=4, r_wait=3
+ Average Reward: 2897.26
+Testing alpha=0.4, beta=0.3, r_search=5, r_wait=0
+ Average Reward: 2836.67
+Testing alpha=0.4, beta=0.3, r_search=5, r_wait=1
+ Average Reward: 2921.98
+Testing alpha=0.4, beta=0.3, r_search=5, r_wait=2
+ Average Reward: 2996.50
+Testing alpha=0.4, beta=0.3, r_search=5, r_wait=3
+ Average Reward: 2968.47
+Testing alpha=0.4, beta=0.3, r_search=5, r_wait=4
+ Average Reward: 3867.16
+Testing alpha=0.4, beta=0.4, r_search=1, r_wait=0
+ Average Reward: 532.46
+Testing alpha=0.4, beta=0.4, r_search=2, r_wait=0
+ Average Reward: 1110.40
+Testing alpha=0.4, beta=0.4, r_search=2, r_wait=1
+ Average Reward: 1186.13
+Testing alpha=0.4, beta=0.4, r_search=3, r_wait=0
+ Average Reward: 1684.86
+Testing alpha=0.4, beta=0.4, r_search=3, r_wait=1
+ Average Reward: 1761.50
+Testing alpha=0.4, beta=0.4, r_search=3, r_wait=2
+ Average Reward: 1932.50
+Testing alpha=0.4, beta=0.4, r_search=4, r_wait=0
+ Average Reward: 2267.31
+Testing alpha=0.4, beta=0.4, r_search=4, r_wait=1
+ Average Reward: 2342.94
+Testing alpha=0.4, beta=0.4, r_search=4, r_wait=2
+ Average Reward: 2424.12
+Testing alpha=0.4, beta=0.4, r_search=4, r_wait=3
+ Average Reward: 2899.77
+Testing alpha=0.4, beta=0.4, r_search=5, r_wait=0
+ Average Reward: 2841.07
+Testing alpha=0.4, beta=0.4, r_search=5, r_wait=1
+ Average Reward: 2917.81
+Testing alpha=0.4, beta=0.4, r_search=5, r_wait=2
+ Average Reward: 3003.86
+Testing alpha=0.4, beta=0.4, r_search=5, r_wait=3
+ Average Reward: 2991.86
+Testing alpha=0.4, beta=0.4, r_search=5, r_wait=4
+ Average Reward: 3873.19
+Testing alpha=0.4, beta=0.5, r_search=1, r_wait=0
+ Average Reward: 543.30
+Testing alpha=0.4, beta=0.5, r_search=2, r_wait=0
+ Average Reward: 1118.91
+Testing alpha=0.4, beta=0.5, r_search=2, r_wait=1
+ Average Reward: 1195.58
+Testing alpha=0.4, beta=0.5, r_search=3, r_wait=0
+ Average Reward: 1696.86
+Testing alpha=0.4, beta=0.5, r_search=3, r_wait=1
+ Average Reward: 1778.77
+Testing alpha=0.4, beta=0.5, r_search=3, r_wait=2
+ Average Reward: 1939.69
+Testing alpha=0.4, beta=0.5, r_search=4, r_wait=0
+ Average Reward: 2276.90
+Testing alpha=0.4, beta=0.5, r_search=4, r_wait=1
+ Average Reward: 2359.79
+Testing alpha=0.4, beta=0.5, r_search=4, r_wait=2
+ Average Reward: 2430.14
+Testing alpha=0.4, beta=0.5, r_search=4, r_wait=3
+ Average Reward: 2907.65
+Testing alpha=0.4, beta=0.5, r_search=5, r_wait=0
+ Average Reward: 2848.77
+Testing alpha=0.4, beta=0.5, r_search=5, r_wait=1
+ Average Reward: 2933.33
+Testing alpha=0.4, beta=0.5, r_search=5, r_wait=2
+ Average Reward: 3019.74
+Testing alpha=0.4, beta=0.5, r_search=5, r_wait=3
+ Average Reward: 3010.09
+Testing alpha=0.4, beta=0.5, r_search=5, r_wait=4
+ Average Reward: 3886.82
+Testing alpha=0.4, beta=0.6, r_search=1, r_wait=0
+ Average Reward: 551.16
+Testing alpha=0.4, beta=0.6, r_search=2, r_wait=0
+ Average Reward: 1130.76
+Testing alpha=0.4, beta=0.6, r_search=2, r_wait=1
+ Average Reward: 1200.28
+Testing alpha=0.4, beta=0.6, r_search=3, r_wait=0
+ Average Reward: 1704.24
+Testing alpha=0.4, beta=0.6, r_search=3, r_wait=1
+ Average Reward: 1787.82
+Testing alpha=0.4, beta=0.6, r_search=3, r_wait=2
+ Average Reward: 1951.39
+Testing alpha=0.4, beta=0.6, r_search=4, r_wait=0
+ Average Reward: 2267.09
+Testing alpha=0.4, beta=0.6, r_search=4, r_wait=1
+ Average Reward: 2349.68
+Testing alpha=0.4, beta=0.6, r_search=4, r_wait=2
+ Average Reward: 2426.34
+Testing alpha=0.4, beta=0.6, r_search=4, r_wait=3
+ Average Reward: 2914.31
+Testing alpha=0.4, beta=0.6, r_search=5, r_wait=0
+ Average Reward: 2853.71
+Testing alpha=0.4, beta=0.6, r_search=5, r_wait=1
+ Average Reward: 2931.98
+Testing alpha=0.4, beta=0.6, r_search=5, r_wait=2
+ Average Reward: 3014.43
+Testing alpha=0.4, beta=0.6, r_search=5, r_wait=3
+ Average Reward: 3035.46
+Testing alpha=0.4, beta=0.6, r_search=5, r_wait=4
+ Average Reward: 3888.75
+Testing alpha=0.4, beta=0.7, r_search=1, r_wait=0
+ Average Reward: 557.61
+Testing alpha=0.4, beta=0.7, r_search=2, r_wait=0
+ Average Reward: 1137.49
+Testing alpha=0.4, beta=0.7, r_search=2, r_wait=1
+ Average Reward: 1208.14
+Testing alpha=0.4, beta=0.7, r_search=3, r_wait=0
+ Average Reward: 1698.60
+Testing alpha=0.4, beta=0.7, r_search=3, r_wait=1
+ Average Reward: 1770.42
+Testing alpha=0.4, beta=0.7, r_search=3, r_wait=2
+ Average Reward: 1971.65
+Testing alpha=0.4, beta=0.7, r_search=4, r_wait=0
+ Average Reward: 2394.61
+Testing alpha=0.4, beta=0.7, r_search=4, r_wait=1
+ Average Reward: 2464.11
+Testing alpha=0.4, beta=0.7, r_search=4, r_wait=2
+ Average Reward: 2532.56
+Testing alpha=0.4, beta=0.7, r_search=4, r_wait=3
+ Average Reward: 2921.97
+Testing alpha=0.4, beta=0.7, r_search=5, r_wait=0
+ Average Reward: 3120.62
+Testing alpha=0.4, beta=0.7, r_search=5, r_wait=1
+ Average Reward: 3187.54
+Testing alpha=0.4, beta=0.7, r_search=5, r_wait=2
+ Average Reward: 3257.79
+Testing alpha=0.4, beta=0.7, r_search=5, r_wait=3
+ Average Reward: 3272.36
+Testing alpha=0.4, beta=0.7, r_search=5, r_wait=4
+ Average Reward: 3898.22
+Testing alpha=0.4, beta=0.8, r_search=1, r_wait=0
+ Average Reward: 566.08
+Testing alpha=0.4, beta=0.8, r_search=2, r_wait=0
+ Average Reward: 1154.48
+Testing alpha=0.4, beta=0.8, r_search=2, r_wait=1
+ Average Reward: 1218.38
+Testing alpha=0.4, beta=0.8, r_search=3, r_wait=0
+ Average Reward: 1914.09
+Testing alpha=0.4, beta=0.8, r_search=3, r_wait=1
+ Average Reward: 1994.02
+Testing alpha=0.4, beta=0.8, r_search=3, r_wait=2
+ Average Reward: 2012.88
+Testing alpha=0.4, beta=0.8, r_search=4, r_wait=0
+ Average Reward: 2682.36
+Testing alpha=0.4, beta=0.8, r_search=4, r_wait=1
+ Average Reward: 2749.26
+Testing alpha=0.4, beta=0.8, r_search=4, r_wait=2
+ Average Reward: 2822.62
+Testing alpha=0.4, beta=0.8, r_search=4, r_wait=3
+ Average Reward: 2935.79
+Testing alpha=0.4, beta=0.8, r_search=5, r_wait=0
+ Average Reward: 3434.05
+Testing alpha=0.4, beta=0.8, r_search=5, r_wait=1
+ Average Reward: 3517.81
+Testing alpha=0.4, beta=0.8, r_search=5, r_wait=2
+ Average Reward: 3594.33
+Testing alpha=0.4, beta=0.8, r_search=5, r_wait=3
+ Average Reward: 3648.09
+Testing alpha=0.4, beta=0.8, r_search=5, r_wait=4
+ Average Reward: 3906.20
+Testing alpha=0.4, beta=0.9, r_search=1, r_wait=0
+ Average Reward: 600.95
+Testing alpha=0.4, beta=0.9, r_search=2, r_wait=0
+ Average Reward: 1411.73
+Testing alpha=0.4, beta=0.9, r_search=2, r_wait=1
+ Average Reward: 1485.33
+Testing alpha=0.4, beta=0.9, r_search=3, r_wait=0
+ Average Reward: 2225.43
+Testing alpha=0.4, beta=0.9, r_search=3, r_wait=1
+ Average Reward: 2299.08
+Testing alpha=0.4, beta=0.9, r_search=3, r_wait=2
+ Average Reward: 2372.10
+Testing alpha=0.4, beta=0.9, r_search=4, r_wait=0
+ Average Reward: 3040.89
+Testing alpha=0.4, beta=0.9, r_search=4, r_wait=1
+ Average Reward: 3110.07
+Testing alpha=0.4, beta=0.9, r_search=4, r_wait=2
+ Average Reward: 3184.46
+Testing alpha=0.4, beta=0.9, r_search=4, r_wait=3
+ Average Reward: 3239.45
+Testing alpha=0.4, beta=0.9, r_search=5, r_wait=0
+ Average Reward: 3859.19
+Testing alpha=0.4, beta=0.9, r_search=5, r_wait=1
+ Average Reward: 3929.17
+Testing alpha=0.4, beta=0.9, r_search=5, r_wait=2
+ Average Reward: 3992.22
+Testing alpha=0.4, beta=0.9, r_search=5, r_wait=3
+ Average Reward: 4056.96
+Testing alpha=0.4, beta=0.9, r_search=5, r_wait=4
+ Average Reward: 4097.51
+Testing alpha=0.5, beta=0.1, r_search=1, r_wait=0
+ Average Reward: 554.38
+Testing alpha=0.5, beta=0.1, r_search=2, r_wait=0
+ Average Reward: 1167.61
+Testing alpha=0.5, beta=0.1, r_search=2, r_wait=1
+ Average Reward: 1246.18
+Testing alpha=0.5, beta=0.1, r_search=3, r_wait=0
+ Average Reward: 1775.04
+Testing alpha=0.5, beta=0.1, r_search=3, r_wait=1
+ Average Reward: 1865.63
+Testing alpha=0.5, beta=0.1, r_search=3, r_wait=2
+ Average Reward: 1948.72
+Testing alpha=0.5, beta=0.1, r_search=4, r_wait=0
+ Average Reward: 2384.21
+Testing alpha=0.5, beta=0.1, r_search=4, r_wait=1
+ Average Reward: 2477.01
+Testing alpha=0.5, beta=0.1, r_search=4, r_wait=2
+ Average Reward: 2558.05
+Testing alpha=0.5, beta=0.1, r_search=4, r_wait=3
+ Average Reward: 2906.12
+Testing alpha=0.5, beta=0.1, r_search=5, r_wait=0
+ Average Reward: 2997.65
+Testing alpha=0.5, beta=0.1, r_search=5, r_wait=1
+ Average Reward: 3089.98
+Testing alpha=0.5, beta=0.1, r_search=5, r_wait=2
+ Average Reward: 3160.41
+Testing alpha=0.5, beta=0.1, r_search=5, r_wait=3
+ Average Reward: 3128.50
+Testing alpha=0.5, beta=0.1, r_search=5, r_wait=4
+ Average Reward: 3884.48
+Testing alpha=0.5, beta=0.2, r_search=1, r_wait=0
+ Average Reward: 560.41
+Testing alpha=0.5, beta=0.2, r_search=2, r_wait=0
+ Average Reward: 1172.78
+Testing alpha=0.5, beta=0.2, r_search=2, r_wait=1
+ Average Reward: 1255.46
+Testing alpha=0.5, beta=0.2, r_search=3, r_wait=0
+ Average Reward: 1783.29
+Testing alpha=0.5, beta=0.2, r_search=3, r_wait=1
+ Average Reward: 1869.61
+Testing alpha=0.5, beta=0.2, r_search=3, r_wait=2
+ Average Reward: 1954.67
+Testing alpha=0.5, beta=0.2, r_search=4, r_wait=0
+ Average Reward: 2399.25
+Testing alpha=0.5, beta=0.2, r_search=4, r_wait=1
+ Average Reward: 2483.69
+Testing alpha=0.5, beta=0.2, r_search=4, r_wait=2
+ Average Reward: 2563.68
+Testing alpha=0.5, beta=0.2, r_search=4, r_wait=3
+ Average Reward: 2908.81
+Testing alpha=0.5, beta=0.2, r_search=5, r_wait=0
+ Average Reward: 2997.53
+Testing alpha=0.5, beta=0.2, r_search=5, r_wait=1
+ Average Reward: 3097.22
+Testing alpha=0.5, beta=0.2, r_search=5, r_wait=2
+ Average Reward: 3172.97
+Testing alpha=0.5, beta=0.2, r_search=5, r_wait=3
+ Average Reward: 3116.58
+Testing alpha=0.5, beta=0.2, r_search=5, r_wait=4
+ Average Reward: 3884.93
+Testing alpha=0.5, beta=0.3, r_search=1, r_wait=0
+ Average Reward: 572.12
+Testing alpha=0.5, beta=0.3, r_search=2, r_wait=0
+ Average Reward: 1182.22
+Testing alpha=0.5, beta=0.3, r_search=2, r_wait=1
+ Average Reward: 1265.83
+Testing alpha=0.5, beta=0.3, r_search=3, r_wait=0
+ Average Reward: 1793.43
+Testing alpha=0.5, beta=0.3, r_search=3, r_wait=1
+ Average Reward: 1870.88
+Testing alpha=0.5, beta=0.3, r_search=3, r_wait=2
+ Average Reward: 1944.21
+Testing alpha=0.5, beta=0.3, r_search=4, r_wait=0
+ Average Reward: 2394.01
+Testing alpha=0.5, beta=0.3, r_search=4, r_wait=1
+ Average Reward: 2483.28
+Testing alpha=0.5, beta=0.3, r_search=4, r_wait=2
+ Average Reward: 2570.36
+Testing alpha=0.5, beta=0.3, r_search=4, r_wait=3
+ Average Reward: 2909.48
+Testing alpha=0.5, beta=0.3, r_search=5, r_wait=0
+ Average Reward: 3013.07
+Testing alpha=0.5, beta=0.3, r_search=5, r_wait=1
+ Average Reward: 3097.42
+Testing alpha=0.5, beta=0.3, r_search=5, r_wait=2
+ Average Reward: 3183.55
+Testing alpha=0.5, beta=0.3, r_search=5, r_wait=3
+ Average Reward: 3122.77
+Testing alpha=0.5, beta=0.3, r_search=5, r_wait=4
+ Average Reward: 3882.41
+Testing alpha=0.5, beta=0.4, r_search=1, r_wait=0
+ Average Reward: 576.05
+Testing alpha=0.5, beta=0.4, r_search=2, r_wait=0
+ Average Reward: 1188.33
+Testing alpha=0.5, beta=0.4, r_search=2, r_wait=1
+ Average Reward: 1271.08
+Testing alpha=0.5, beta=0.4, r_search=3, r_wait=0
+ Average Reward: 1797.30
+Testing alpha=0.5, beta=0.4, r_search=3, r_wait=1
+ Average Reward: 1883.67
+Testing alpha=0.5, beta=0.4, r_search=3, r_wait=2
+ Average Reward: 1948.01
+Testing alpha=0.5, beta=0.4, r_search=4, r_wait=0
+ Average Reward: 2411.44
+Testing alpha=0.5, beta=0.4, r_search=4, r_wait=1
+ Average Reward: 2502.43
+Testing alpha=0.5, beta=0.4, r_search=4, r_wait=2
+ Average Reward: 2581.78
+Testing alpha=0.5, beta=0.4, r_search=4, r_wait=3
+ Average Reward: 2912.48
+Testing alpha=0.5, beta=0.4, r_search=5, r_wait=0
+ Average Reward: 3032.90
+Testing alpha=0.5, beta=0.4, r_search=5, r_wait=1
+ Average Reward: 3114.60
+Testing alpha=0.5, beta=0.4, r_search=5, r_wait=2
+ Average Reward: 3199.71
+Testing alpha=0.5, beta=0.4, r_search=5, r_wait=3
+ Average Reward: 3115.36
+Testing alpha=0.5, beta=0.4, r_search=5, r_wait=4
+ Average Reward: 3889.48
+Testing alpha=0.5, beta=0.5, r_search=1, r_wait=0
+ Average Reward: 580.68
+Testing alpha=0.5, beta=0.5, r_search=2, r_wait=0
+ Average Reward: 1197.39
+Testing alpha=0.5, beta=0.5, r_search=2, r_wait=1
+ Average Reward: 1278.43
+Testing alpha=0.5, beta=0.5, r_search=3, r_wait=0
+ Average Reward: 1812.51
+Testing alpha=0.5, beta=0.5, r_search=3, r_wait=1
+ Average Reward: 1898.02
+Testing alpha=0.5, beta=0.5, r_search=3, r_wait=2
+ Average Reward: 1957.74
+Testing alpha=0.5, beta=0.5, r_search=4, r_wait=0
+ Average Reward: 2422.22
+Testing alpha=0.5, beta=0.5, r_search=4, r_wait=1
+ Average Reward: 2502.08
+Testing alpha=0.5, beta=0.5, r_search=4, r_wait=2
+ Average Reward: 2584.24
+Testing alpha=0.5, beta=0.5, r_search=4, r_wait=3
+ Average Reward: 2917.10
+Testing alpha=0.5, beta=0.5, r_search=5, r_wait=0
+ Average Reward: 3032.79
+Testing alpha=0.5, beta=0.5, r_search=5, r_wait=1
+ Average Reward: 3121.24
+Testing alpha=0.5, beta=0.5, r_search=5, r_wait=2
+ Average Reward: 3204.75
+Testing alpha=0.5, beta=0.5, r_search=5, r_wait=3
+ Average Reward: 3131.07
+Testing alpha=0.5, beta=0.5, r_search=5, r_wait=4
+ Average Reward: 3899.12
+Testing alpha=0.5, beta=0.6, r_search=1, r_wait=0
+ Average Reward: 590.76
+Testing alpha=0.5, beta=0.6, r_search=2, r_wait=0
+ Average Reward: 1201.72
+Testing alpha=0.5, beta=0.6, r_search=2, r_wait=1
+ Average Reward: 1283.43
+Testing alpha=0.5, beta=0.6, r_search=3, r_wait=0
+ Average Reward: 1813.89
+Testing alpha=0.5, beta=0.6, r_search=3, r_wait=1
+ Average Reward: 1905.13
+Testing alpha=0.5, beta=0.6, r_search=3, r_wait=2
+ Average Reward: 1973.01
+Testing alpha=0.5, beta=0.6, r_search=4, r_wait=0
+ Average Reward: 2424.27
+Testing alpha=0.5, beta=0.6, r_search=4, r_wait=1
+ Average Reward: 2505.02
+Testing alpha=0.5, beta=0.6, r_search=4, r_wait=2
+ Average Reward: 2594.97
+Testing alpha=0.5, beta=0.6, r_search=4, r_wait=3
+ Average Reward: 2924.93
+Testing alpha=0.5, beta=0.6, r_search=5, r_wait=0
+ Average Reward: 3010.26
+Testing alpha=0.5, beta=0.6, r_search=5, r_wait=1
+ Average Reward: 3090.81
+Testing alpha=0.5, beta=0.6, r_search=5, r_wait=2
+ Average Reward: 3180.31
+Testing alpha=0.5, beta=0.6, r_search=5, r_wait=3
+ Average Reward: 3136.98
+Testing alpha=0.5, beta=0.6, r_search=5, r_wait=4
+ Average Reward: 3898.99
+Testing alpha=0.5, beta=0.7, r_search=1, r_wait=0
+ Average Reward: 595.34
+Testing alpha=0.5, beta=0.7, r_search=2, r_wait=0
+ Average Reward: 1211.89
+Testing alpha=0.5, beta=0.7, r_search=2, r_wait=1
+ Average Reward: 1291.74
+Testing alpha=0.5, beta=0.7, r_search=3, r_wait=0
+ Average Reward: 1807.29
+Testing alpha=0.5, beta=0.7, r_search=3, r_wait=1
+ Average Reward: 1886.67
+Testing alpha=0.5, beta=0.7, r_search=3, r_wait=2
+ Average Reward: 1994.93
+Testing alpha=0.5, beta=0.7, r_search=4, r_wait=0
+ Average Reward: 2479.63
+Testing alpha=0.5, beta=0.7, r_search=4, r_wait=1
+ Average Reward: 2552.36
+Testing alpha=0.5, beta=0.7, r_search=4, r_wait=2
+ Average Reward: 2629.63
+Testing alpha=0.5, beta=0.7, r_search=4, r_wait=3
+ Average Reward: 2932.85
+Testing alpha=0.5, beta=0.7, r_search=5, r_wait=0
+ Average Reward: 3198.32
+Testing alpha=0.5, beta=0.7, r_search=5, r_wait=1
+ Average Reward: 3290.35
+Testing alpha=0.5, beta=0.7, r_search=5, r_wait=2
+ Average Reward: 3362.49
+Testing alpha=0.5, beta=0.7, r_search=5, r_wait=3
+ Average Reward: 3406.40
+Testing alpha=0.5, beta=0.7, r_search=5, r_wait=4
+ Average Reward: 3908.04
+Testing alpha=0.5, beta=0.8, r_search=1, r_wait=0
+ Average Reward: 601.98
+Testing alpha=0.5, beta=0.8, r_search=2, r_wait=0
+ Average Reward: 1204.66
+Testing alpha=0.5, beta=0.8, r_search=2, r_wait=1
+ Average Reward: 1278.72
+Testing alpha=0.5, beta=0.8, r_search=3, r_wait=0
+ Average Reward: 1963.41
+Testing alpha=0.5, beta=0.8, r_search=3, r_wait=1
+ Average Reward: 2038.85
+Testing alpha=0.5, beta=0.8, r_search=3, r_wait=2
+ Average Reward: 2055.71
+Testing alpha=0.5, beta=0.8, r_search=4, r_wait=0
+ Average Reward: 2742.20
+Testing alpha=0.5, beta=0.8, r_search=4, r_wait=1
+ Average Reward: 2810.91
+Testing alpha=0.5, beta=0.8, r_search=4, r_wait=2
+ Average Reward: 2887.23
+Testing alpha=0.5, beta=0.8, r_search=4, r_wait=3
+ Average Reward: 2954.69
+Testing alpha=0.5, beta=0.8, r_search=5, r_wait=0
+ Average Reward: 3504.08
+Testing alpha=0.5, beta=0.8, r_search=5, r_wait=1
+ Average Reward: 3580.42
+Testing alpha=0.5, beta=0.8, r_search=5, r_wait=2
+ Average Reward: 3653.41
+Testing alpha=0.5, beta=0.8, r_search=5, r_wait=3
+ Average Reward: 3715.42
+Testing alpha=0.5, beta=0.8, r_search=5, r_wait=4
+ Average Reward: 3915.19
+Testing alpha=0.5, beta=0.9, r_search=1, r_wait=0
+ Average Reward: 614.51
+Testing alpha=0.5, beta=0.9, r_search=2, r_wait=0
+ Average Reward: 1433.49
+Testing alpha=0.5, beta=0.9, r_search=2, r_wait=1
+ Average Reward: 1499.63
+Testing alpha=0.5, beta=0.9, r_search=3, r_wait=0
+ Average Reward: 2252.55
+Testing alpha=0.5, beta=0.9, r_search=3, r_wait=1
+ Average Reward: 2318.15
+Testing alpha=0.5, beta=0.9, r_search=3, r_wait=2
+ Average Reward: 2392.33
+Testing alpha=0.5, beta=0.9, r_search=4, r_wait=0
+ Average Reward: 3056.91
+Testing alpha=0.5, beta=0.9, r_search=4, r_wait=1
+ Average Reward: 3142.87
+Testing alpha=0.5, beta=0.9, r_search=4, r_wait=2
+ Average Reward: 3199.38
+Testing alpha=0.5, beta=0.9, r_search=4, r_wait=3
+ Average Reward: 3272.03
+Testing alpha=0.5, beta=0.9, r_search=5, r_wait=0
+ Average Reward: 3884.57
+Testing alpha=0.5, beta=0.9, r_search=5, r_wait=1
+ Average Reward: 3944.42
+Testing alpha=0.5, beta=0.9, r_search=5, r_wait=2
+ Average Reward: 4021.19
+Testing alpha=0.5, beta=0.9, r_search=5, r_wait=3
+ Average Reward: 4093.77
+Testing alpha=0.5, beta=0.9, r_search=5, r_wait=4
+ Average Reward: 4131.73
+Testing alpha=0.6, beta=0.1, r_search=1, r_wait=0
+ Average Reward: 605.06
+Testing alpha=0.6, beta=0.1, r_search=2, r_wait=0
+ Average Reward: 1258.53
+Testing alpha=0.6, beta=0.1, r_search=2, r_wait=1
+ Average Reward: 1340.89
+Testing alpha=0.6, beta=0.1, r_search=3, r_wait=0
+ Average Reward: 1910.49
+Testing alpha=0.6, beta=0.1, r_search=3, r_wait=1
+ Average Reward: 1999.19
+Testing alpha=0.6, beta=0.1, r_search=3, r_wait=2
+ Average Reward: 1999.19
+Testing alpha=0.6, beta=0.1, r_search=4, r_wait=0
+ Average Reward: 2573.74
+Testing alpha=0.6, beta=0.1, r_search=4, r_wait=1
+ Average Reward: 2647.24
+Testing alpha=0.6, beta=0.1, r_search=4, r_wait=2
+ Average Reward: 2738.02
+Testing alpha=0.6, beta=0.1, r_search=4, r_wait=3
+ Average Reward: 2918.14
+Testing alpha=0.6, beta=0.1, r_search=5, r_wait=0
+ Average Reward: 3225.06
+Testing alpha=0.6, beta=0.1, r_search=5, r_wait=1
+ Average Reward: 3305.66
+Testing alpha=0.6, beta=0.1, r_search=5, r_wait=2
+ Average Reward: 3388.76
+Testing alpha=0.6, beta=0.1, r_search=5, r_wait=3
+ Average Reward: 3410.78
+Testing alpha=0.6, beta=0.1, r_search=5, r_wait=4
+ Average Reward: 3905.37
+Testing alpha=0.6, beta=0.2, r_search=1, r_wait=0
+ Average Reward: 614.20
+Testing alpha=0.6, beta=0.2, r_search=2, r_wait=0
+ Average Reward: 1264.52
+Testing alpha=0.6, beta=0.2, r_search=2, r_wait=1
+ Average Reward: 1348.09
+Testing alpha=0.6, beta=0.2, r_search=3, r_wait=0
+ Average Reward: 1918.17
+Testing alpha=0.6, beta=0.2, r_search=3, r_wait=1
+ Average Reward: 2004.95
+Testing alpha=0.6, beta=0.2, r_search=3, r_wait=2
+ Average Reward: 1999.99
+Testing alpha=0.6, beta=0.2, r_search=4, r_wait=0
+ Average Reward: 2575.19
+Testing alpha=0.6, beta=0.2, r_search=4, r_wait=1
+ Average Reward: 2660.01
+Testing alpha=0.6, beta=0.2, r_search=4, r_wait=2
+ Average Reward: 2732.02
+Testing alpha=0.6, beta=0.2, r_search=4, r_wait=3
+ Average Reward: 2913.02
+Testing alpha=0.6, beta=0.2, r_search=5, r_wait=0
+ Average Reward: 3223.14
+Testing alpha=0.6, beta=0.2, r_search=5, r_wait=1
+ Average Reward: 3318.76
+Testing alpha=0.6, beta=0.2, r_search=5, r_wait=2
+ Average Reward: 3380.07
+Testing alpha=0.6, beta=0.2, r_search=5, r_wait=3
+ Average Reward: 3416.43
+Testing alpha=0.6, beta=0.2, r_search=5, r_wait=4
+ Average Reward: 3908.39
+Testing alpha=0.6, beta=0.3, r_search=1, r_wait=0
+ Average Reward: 614.42
+Testing alpha=0.6, beta=0.3, r_search=2, r_wait=0
+ Average Reward: 1273.42
+Testing alpha=0.6, beta=0.3, r_search=2, r_wait=1
+ Average Reward: 1354.38
+Testing alpha=0.6, beta=0.3, r_search=3, r_wait=0
+ Average Reward: 1927.20
+Testing alpha=0.6, beta=0.3, r_search=3, r_wait=1
+ Average Reward: 2005.41
+Testing alpha=0.6, beta=0.3, r_search=3, r_wait=2
+ Average Reward: 2002.52
+Testing alpha=0.6, beta=0.3, r_search=4, r_wait=0
+ Average Reward: 2573.11
+Testing alpha=0.6, beta=0.3, r_search=4, r_wait=1
+ Average Reward: 2662.86
+Testing alpha=0.6, beta=0.3, r_search=4, r_wait=2
+ Average Reward: 2751.43
+Testing alpha=0.6, beta=0.3, r_search=4, r_wait=3
+ Average Reward: 2912.59
+Testing alpha=0.6, beta=0.3, r_search=5, r_wait=0
+ Average Reward: 3224.66
+Testing alpha=0.6, beta=0.3, r_search=5, r_wait=1
+ Average Reward: 3318.60
+Testing alpha=0.6, beta=0.3, r_search=5, r_wait=2
+ Average Reward: 3404.75
+Testing alpha=0.6, beta=0.3, r_search=5, r_wait=3
+ Average Reward: 3417.81
+Testing alpha=0.6, beta=0.3, r_search=5, r_wait=4
+ Average Reward: 3900.71
+Testing alpha=0.6, beta=0.4, r_search=1, r_wait=0
+ Average Reward: 621.60
+Testing alpha=0.6, beta=0.4, r_search=2, r_wait=0
+ Average Reward: 1276.07
+Testing alpha=0.6, beta=0.4, r_search=2, r_wait=1
+ Average Reward: 1361.28
+Testing alpha=0.6, beta=0.4, r_search=3, r_wait=0
+ Average Reward: 1933.05
+Testing alpha=0.6, beta=0.4, r_search=3, r_wait=1
+ Average Reward: 2013.44
+Testing alpha=0.6, beta=0.4, r_search=3, r_wait=2
+ Average Reward: 2007.09
+Testing alpha=0.6, beta=0.4, r_search=4, r_wait=0
+ Average Reward: 2575.51
+Testing alpha=0.6, beta=0.4, r_search=4, r_wait=1
+ Average Reward: 2674.79
+Testing alpha=0.6, beta=0.4, r_search=4, r_wait=2
+ Average Reward: 2759.57
+Testing alpha=0.6, beta=0.4, r_search=4, r_wait=3
+ Average Reward: 2925.30
+Testing alpha=0.6, beta=0.4, r_search=5, r_wait=0
+ Average Reward: 3249.54
+Testing alpha=0.6, beta=0.4, r_search=5, r_wait=1
+ Average Reward: 3324.21
+Testing alpha=0.6, beta=0.4, r_search=5, r_wait=2
+ Average Reward: 3411.70
+Testing alpha=0.6, beta=0.4, r_search=5, r_wait=3
+ Average Reward: 3429.49
+Testing alpha=0.6, beta=0.4, r_search=5, r_wait=4
+ Average Reward: 3903.51
+Testing alpha=0.6, beta=0.5, r_search=1, r_wait=0
+ Average Reward: 628.42
+Testing alpha=0.6, beta=0.5, r_search=2, r_wait=0
+ Average Reward: 1278.74
+Testing alpha=0.6, beta=0.5, r_search=2, r_wait=1
+ Average Reward: 1371.11
+Testing alpha=0.6, beta=0.5, r_search=3, r_wait=0
+ Average Reward: 1940.25
+Testing alpha=0.6, beta=0.5, r_search=3, r_wait=1
+ Average Reward: 2027.55
+Testing alpha=0.6, beta=0.5, r_search=3, r_wait=2
+ Average Reward: 2017.89
+Testing alpha=0.6, beta=0.5, r_search=4, r_wait=0
+ Average Reward: 2599.66
+Testing alpha=0.6, beta=0.5, r_search=4, r_wait=1
+ Average Reward: 2683.50
+Testing alpha=0.6, beta=0.5, r_search=4, r_wait=2
+ Average Reward: 2767.96
+Testing alpha=0.6, beta=0.5, r_search=4, r_wait=3
+ Average Reward: 2933.01
+Testing alpha=0.6, beta=0.5, r_search=5, r_wait=0
+ Average Reward: 3240.18
+Testing alpha=0.6, beta=0.5, r_search=5, r_wait=1
+ Average Reward: 3333.47
+Testing alpha=0.6, beta=0.5, r_search=5, r_wait=2
+ Average Reward: 3418.51
+Testing alpha=0.6, beta=0.5, r_search=5, r_wait=3
+ Average Reward: 3416.28
+Testing alpha=0.6, beta=0.5, r_search=5, r_wait=4
+ Average Reward: 3903.19
+Testing alpha=0.6, beta=0.6, r_search=1, r_wait=0
+ Average Reward: 632.26
+Testing alpha=0.6, beta=0.6, r_search=2, r_wait=0
+ Average Reward: 1288.27
+Testing alpha=0.6, beta=0.6, r_search=2, r_wait=1
+ Average Reward: 1371.66
+Testing alpha=0.6, beta=0.6, r_search=3, r_wait=0
+ Average Reward: 1946.07
+Testing alpha=0.6, beta=0.6, r_search=3, r_wait=1
+ Average Reward: 2030.60
+Testing alpha=0.6, beta=0.6, r_search=3, r_wait=2
+ Average Reward: 2027.05
+Testing alpha=0.6, beta=0.6, r_search=4, r_wait=0
+ Average Reward: 2595.31
+Testing alpha=0.6, beta=0.6, r_search=4, r_wait=1
+ Average Reward: 2682.00
+Testing alpha=0.6, beta=0.6, r_search=4, r_wait=2
+ Average Reward: 2766.74
+Testing alpha=0.6, beta=0.6, r_search=4, r_wait=3
+ Average Reward: 2944.15
+Testing alpha=0.6, beta=0.6, r_search=5, r_wait=0
+ Average Reward: 3227.57
+Testing alpha=0.6, beta=0.6, r_search=5, r_wait=1
+ Average Reward: 3300.31
+Testing alpha=0.6, beta=0.6, r_search=5, r_wait=2
+ Average Reward: 3395.99
+Testing alpha=0.6, beta=0.6, r_search=5, r_wait=3
+ Average Reward: 3417.12
+Testing alpha=0.6, beta=0.6, r_search=5, r_wait=4
+ Average Reward: 3907.82
+Testing alpha=0.6, beta=0.7, r_search=1, r_wait=0
+ Average Reward: 639.92
+Testing alpha=0.6, beta=0.7, r_search=2, r_wait=0
+ Average Reward: 1298.20
+Testing alpha=0.6, beta=0.7, r_search=2, r_wait=1
+ Average Reward: 1378.65
+Testing alpha=0.6, beta=0.7, r_search=3, r_wait=0
+ Average Reward: 1931.85
+Testing alpha=0.6, beta=0.7, r_search=3, r_wait=1
+ Average Reward: 2020.25
+Testing alpha=0.6, beta=0.7, r_search=3, r_wait=2
+ Average Reward: 2041.83
+Testing alpha=0.6, beta=0.7, r_search=4, r_wait=0
+ Average Reward: 2596.95
+Testing alpha=0.6, beta=0.7, r_search=4, r_wait=1
+ Average Reward: 2673.51
+Testing alpha=0.6, beta=0.7, r_search=4, r_wait=2
+ Average Reward: 2753.47
+Testing alpha=0.6, beta=0.7, r_search=4, r_wait=3
+ Average Reward: 2963.80
+Testing alpha=0.6, beta=0.7, r_search=5, r_wait=0
+ Average Reward: 3332.15
+Testing alpha=0.6, beta=0.7, r_search=5, r_wait=1
+ Average Reward: 3407.20
+Testing alpha=0.6, beta=0.7, r_search=5, r_wait=2
+ Average Reward: 3501.71
+Testing alpha=0.6, beta=0.7, r_search=5, r_wait=3
+ Average Reward: 3552.02
+Testing alpha=0.6, beta=0.7, r_search=5, r_wait=4
+ Average Reward: 3915.76
+Testing alpha=0.6, beta=0.8, r_search=1, r_wait=0
+ Average Reward: 643.27
+Testing alpha=0.6, beta=0.8, r_search=2, r_wait=0
+ Average Reward: 1282.66
+Testing alpha=0.6, beta=0.8, r_search=2, r_wait=1
+ Average Reward: 1363.77
+Testing alpha=0.6, beta=0.8, r_search=3, r_wait=0
+ Average Reward: 2020.77
+Testing alpha=0.6, beta=0.8, r_search=3, r_wait=1
+ Average Reward: 2105.01
+Testing alpha=0.6, beta=0.8, r_search=3, r_wait=2
+ Average Reward: 2133.31
+Testing alpha=0.6, beta=0.8, r_search=4, r_wait=0
+ Average Reward: 2802.07
+Testing alpha=0.6, beta=0.8, r_search=4, r_wait=1
+ Average Reward: 2878.20
+Testing alpha=0.6, beta=0.8, r_search=4, r_wait=2
+ Average Reward: 2958.17
+Testing alpha=0.6, beta=0.8, r_search=4, r_wait=3
+ Average Reward: 2989.61
+Testing alpha=0.6, beta=0.8, r_search=5, r_wait=0
+ Average Reward: 3572.86
+Testing alpha=0.6, beta=0.8, r_search=5, r_wait=1
+ Average Reward: 3656.58
+Testing alpha=0.6, beta=0.8, r_search=5, r_wait=2
+ Average Reward: 3736.91
+Testing alpha=0.6, beta=0.8, r_search=5, r_wait=3
+ Average Reward: 3815.97
+Testing alpha=0.6, beta=0.8, r_search=5, r_wait=4
+ Average Reward: 3931.50
+Testing alpha=0.6, beta=0.9, r_search=1, r_wait=0
+ Average Reward: 645.40
+Testing alpha=0.6, beta=0.9, r_search=2, r_wait=0
+ Average Reward: 1455.93
+Testing alpha=0.6, beta=0.9, r_search=2, r_wait=1
+ Average Reward: 1528.27
+Testing alpha=0.6, beta=0.9, r_search=3, r_wait=0
+ Average Reward: 2277.36
+Testing alpha=0.6, beta=0.9, r_search=3, r_wait=1
+ Average Reward: 2352.53
+Testing alpha=0.6, beta=0.9, r_search=3, r_wait=2
+ Average Reward: 2418.28
+Testing alpha=0.6, beta=0.9, r_search=4, r_wait=0
+ Average Reward: 3091.61
+Testing alpha=0.6, beta=0.9, r_search=4, r_wait=1
+ Average Reward: 3170.65
+Testing alpha=0.6, beta=0.9, r_search=4, r_wait=2
+ Average Reward: 3244.95
+Testing alpha=0.6, beta=0.9, r_search=4, r_wait=3
+ Average Reward: 3314.17
+Testing alpha=0.6, beta=0.9, r_search=5, r_wait=0
+ Average Reward: 3920.38
+Testing alpha=0.6, beta=0.9, r_search=5, r_wait=1
+ Average Reward: 3982.37
+Testing alpha=0.6, beta=0.9, r_search=5, r_wait=2
+ Average Reward: 4067.06
+Testing alpha=0.6, beta=0.9, r_search=5, r_wait=3
+ Average Reward: 4145.25
+Testing alpha=0.6, beta=0.9, r_search=5, r_wait=4
+ Average Reward: 4194.83
+Testing alpha=0.7, beta=0.1, r_search=1, r_wait=0
+ Average Reward: 664.20
+Testing alpha=0.7, beta=0.1, r_search=2, r_wait=0
+ Average Reward: 1365.31
+Testing alpha=0.7, beta=0.1, r_search=2, r_wait=1
+ Average Reward: 1458.96
+Testing alpha=0.7, beta=0.1, r_search=3, r_wait=0
+ Average Reward: 2065.86
+Testing alpha=0.7, beta=0.1, r_search=3, r_wait=1
+ Average Reward: 2155.85
+Testing alpha=0.7, beta=0.1, r_search=3, r_wait=2
+ Average Reward: 2191.25
+Testing alpha=0.7, beta=0.1, r_search=4, r_wait=0
+ Average Reward: 2769.14
+Testing alpha=0.7, beta=0.1, r_search=4, r_wait=1
+ Average Reward: 2851.41
+Testing alpha=0.7, beta=0.1, r_search=4, r_wait=2
+ Average Reward: 2947.91
+Testing alpha=0.7, beta=0.1, r_search=4, r_wait=3
+ Average Reward: 2944.76
+Testing alpha=0.7, beta=0.1, r_search=5, r_wait=0
+ Average Reward: 3475.59
+Testing alpha=0.7, beta=0.1, r_search=5, r_wait=1
+ Average Reward: 3568.47
+Testing alpha=0.7, beta=0.1, r_search=5, r_wait=2
+ Average Reward: 3650.03
+Testing alpha=0.7, beta=0.1, r_search=5, r_wait=3
+ Average Reward: 3714.75
+Testing alpha=0.7, beta=0.1, r_search=5, r_wait=4
+ Average Reward: 3911.42
+Testing alpha=0.7, beta=0.2, r_search=1, r_wait=0
+ Average Reward: 666.38
+Testing alpha=0.7, beta=0.2, r_search=2, r_wait=0
+ Average Reward: 1372.24
+Testing alpha=0.7, beta=0.2, r_search=2, r_wait=1
+ Average Reward: 1462.68
+Testing alpha=0.7, beta=0.2, r_search=3, r_wait=0
+ Average Reward: 2067.63
+Testing alpha=0.7, beta=0.2, r_search=3, r_wait=1
+ Average Reward: 2154.25
+Testing alpha=0.7, beta=0.2, r_search=3, r_wait=2
+ Average Reward: 2191.77
+Testing alpha=0.7, beta=0.2, r_search=4, r_wait=0
+ Average Reward: 2774.64
+Testing alpha=0.7, beta=0.2, r_search=4, r_wait=1
+ Average Reward: 2865.65
+Testing alpha=0.7, beta=0.2, r_search=4, r_wait=2
+ Average Reward: 2954.87
+Testing alpha=0.7, beta=0.2, r_search=4, r_wait=3
+ Average Reward: 2953.26
+Testing alpha=0.7, beta=0.2, r_search=5, r_wait=0
+ Average Reward: 3467.79
+Testing alpha=0.7, beta=0.2, r_search=5, r_wait=1
+ Average Reward: 3554.90
+Testing alpha=0.7, beta=0.2, r_search=5, r_wait=2
+ Average Reward: 3656.31
+Testing alpha=0.7, beta=0.2, r_search=5, r_wait=3
+ Average Reward: 3712.54
+Testing alpha=0.7, beta=0.2, r_search=5, r_wait=4
+ Average Reward: 3903.55
+Testing alpha=0.7, beta=0.3, r_search=1, r_wait=0
+ Average Reward: 671.19
+Testing alpha=0.7, beta=0.3, r_search=2, r_wait=0
+ Average Reward: 1375.68
+Testing alpha=0.7, beta=0.3, r_search=2, r_wait=1
+ Average Reward: 1462.01
+Testing alpha=0.7, beta=0.3, r_search=3, r_wait=0
+ Average Reward: 2075.46
+Testing alpha=0.7, beta=0.3, r_search=3, r_wait=1
+ Average Reward: 2162.32
+Testing alpha=0.7, beta=0.3, r_search=3, r_wait=2
+ Average Reward: 2186.61
+Testing alpha=0.7, beta=0.3, r_search=4, r_wait=0
+ Average Reward: 2774.85
+Testing alpha=0.7, beta=0.3, r_search=4, r_wait=1
+ Average Reward: 2863.86
+Testing alpha=0.7, beta=0.3, r_search=4, r_wait=2
+ Average Reward: 2957.04
+Testing alpha=0.7, beta=0.3, r_search=4, r_wait=3
+ Average Reward: 2961.83
+Testing alpha=0.7, beta=0.3, r_search=5, r_wait=0
+ Average Reward: 3477.66
+Testing alpha=0.7, beta=0.3, r_search=5, r_wait=1
+ Average Reward: 3570.15
+Testing alpha=0.7, beta=0.3, r_search=5, r_wait=2
+ Average Reward: 3655.02
+Testing alpha=0.7, beta=0.3, r_search=5, r_wait=3
+ Average Reward: 3719.18
+Testing alpha=0.7, beta=0.3, r_search=5, r_wait=4
+ Average Reward: 3906.06
+Testing alpha=0.7, beta=0.4, r_search=1, r_wait=0
+ Average Reward: 675.12
+Testing alpha=0.7, beta=0.4, r_search=2, r_wait=0
+ Average Reward: 1377.71
+Testing alpha=0.7, beta=0.4, r_search=2, r_wait=1
+ Average Reward: 1467.96
+Testing alpha=0.7, beta=0.4, r_search=3, r_wait=0
+ Average Reward: 2079.45
+Testing alpha=0.7, beta=0.4, r_search=3, r_wait=1
+ Average Reward: 2172.58
+Testing alpha=0.7, beta=0.4, r_search=3, r_wait=2
+ Average Reward: 2188.85
+Testing alpha=0.7, beta=0.4, r_search=4, r_wait=0
+ Average Reward: 2782.96
+Testing alpha=0.7, beta=0.4, r_search=4, r_wait=1
+ Average Reward: 2876.41
+Testing alpha=0.7, beta=0.4, r_search=4, r_wait=2
+ Average Reward: 2964.59
+Testing alpha=0.7, beta=0.4, r_search=4, r_wait=3
+ Average Reward: 2974.66
+Testing alpha=0.7, beta=0.4, r_search=5, r_wait=0
+ Average Reward: 3479.55
+Testing alpha=0.7, beta=0.4, r_search=5, r_wait=1
+ Average Reward: 3581.52
+Testing alpha=0.7, beta=0.4, r_search=5, r_wait=2
+ Average Reward: 3654.23
+Testing alpha=0.7, beta=0.4, r_search=5, r_wait=3
+ Average Reward: 3731.85
+Testing alpha=0.7, beta=0.4, r_search=5, r_wait=4
+ Average Reward: 3910.16
+Testing alpha=0.7, beta=0.5, r_search=1, r_wait=0
+ Average Reward: 678.91
+Testing alpha=0.7, beta=0.5, r_search=2, r_wait=0
+ Average Reward: 1384.82
+Testing alpha=0.7, beta=0.5, r_search=2, r_wait=1
+ Average Reward: 1469.20
+Testing alpha=0.7, beta=0.5, r_search=3, r_wait=0
+ Average Reward: 2089.92
+Testing alpha=0.7, beta=0.5, r_search=3, r_wait=1
+ Average Reward: 2174.99
+Testing alpha=0.7, beta=0.5, r_search=3, r_wait=2
+ Average Reward: 2196.37
+Testing alpha=0.7, beta=0.5, r_search=4, r_wait=0
+ Average Reward: 2791.88
+Testing alpha=0.7, beta=0.5, r_search=4, r_wait=1
+ Average Reward: 2881.16
+Testing alpha=0.7, beta=0.5, r_search=4, r_wait=2
+ Average Reward: 2960.90
+Testing alpha=0.7, beta=0.5, r_search=4, r_wait=3
+ Average Reward: 2982.60
+Testing alpha=0.7, beta=0.5, r_search=5, r_wait=0
+ Average Reward: 3493.56
+Testing alpha=0.7, beta=0.5, r_search=5, r_wait=1
+ Average Reward: 3570.00
+Testing alpha=0.7, beta=0.5, r_search=5, r_wait=2
+ Average Reward: 3667.71
+Testing alpha=0.7, beta=0.5, r_search=5, r_wait=3
+ Average Reward: 3725.99
+Testing alpha=0.7, beta=0.5, r_search=5, r_wait=4
+ Average Reward: 3919.76
+Testing alpha=0.7, beta=0.6, r_search=1, r_wait=0
+ Average Reward: 686.89
+Testing alpha=0.7, beta=0.6, r_search=2, r_wait=0
+ Average Reward: 1388.69
+Testing alpha=0.7, beta=0.6, r_search=2, r_wait=1
+ Average Reward: 1478.52
+Testing alpha=0.7, beta=0.6, r_search=3, r_wait=0
+ Average Reward: 2096.34
+Testing alpha=0.7, beta=0.6, r_search=3, r_wait=1
+ Average Reward: 2184.62
+Testing alpha=0.7, beta=0.6, r_search=3, r_wait=2
+ Average Reward: 2184.10
+Testing alpha=0.7, beta=0.6, r_search=4, r_wait=0
+ Average Reward: 2793.11
+Testing alpha=0.7, beta=0.6, r_search=4, r_wait=1
+ Average Reward: 2880.48
+Testing alpha=0.7, beta=0.6, r_search=4, r_wait=2
+ Average Reward: 2971.27
+Testing alpha=0.7, beta=0.6, r_search=4, r_wait=3
+ Average Reward: 2999.89
+Testing alpha=0.7, beta=0.6, r_search=5, r_wait=0
+ Average Reward: 3472.69
+Testing alpha=0.7, beta=0.6, r_search=5, r_wait=1
+ Average Reward: 3559.68
+Testing alpha=0.7, beta=0.6, r_search=5, r_wait=2
+ Average Reward: 3658.23
+Testing alpha=0.7, beta=0.6, r_search=5, r_wait=3
+ Average Reward: 3733.53
+Testing alpha=0.7, beta=0.6, r_search=5, r_wait=4
+ Average Reward: 3934.58
+Testing alpha=0.7, beta=0.7, r_search=1, r_wait=0
+ Average Reward: 690.06
+Testing alpha=0.7, beta=0.7, r_search=2, r_wait=0
+ Average Reward: 1400.82
+Testing alpha=0.7, beta=0.7, r_search=2, r_wait=1
+ Average Reward: 1480.81
+Testing alpha=0.7, beta=0.7, r_search=3, r_wait=0
+ Average Reward: 2090.88
+Testing alpha=0.7, beta=0.7, r_search=3, r_wait=1
+ Average Reward: 2176.39
+Testing alpha=0.7, beta=0.7, r_search=3, r_wait=2
+ Average Reward: 2187.39
+Testing alpha=0.7, beta=0.7, r_search=4, r_wait=0
+ Average Reward: 2768.27
+Testing alpha=0.7, beta=0.7, r_search=4, r_wait=1
+ Average Reward: 2855.29
+Testing alpha=0.7, beta=0.7, r_search=4, r_wait=2
+ Average Reward: 2934.84
+Testing alpha=0.7, beta=0.7, r_search=4, r_wait=3
+ Average Reward: 3014.04
+Testing alpha=0.7, beta=0.7, r_search=5, r_wait=0
+ Average Reward: 3500.01
+Testing alpha=0.7, beta=0.7, r_search=5, r_wait=1
+ Average Reward: 3586.92
+Testing alpha=0.7, beta=0.7, r_search=5, r_wait=2
+ Average Reward: 3652.19
+Testing alpha=0.7, beta=0.7, r_search=5, r_wait=3
+ Average Reward: 3753.46
+Testing alpha=0.7, beta=0.7, r_search=5, r_wait=4
+ Average Reward: 3949.04
+Testing alpha=0.7, beta=0.8, r_search=1, r_wait=0
+ Average Reward: 695.00
+Testing alpha=0.7, beta=0.8, r_search=2, r_wait=0
+ Average Reward: 1380.84
+Testing alpha=0.7, beta=0.8, r_search=2, r_wait=1
+ Average Reward: 1470.12
+Testing alpha=0.7, beta=0.8, r_search=3, r_wait=0
+ Average Reward: 2096.67
+Testing alpha=0.7, beta=0.8, r_search=3, r_wait=1
+ Average Reward: 2191.32
+Testing alpha=0.7, beta=0.8, r_search=3, r_wait=2
+ Average Reward: 2249.44
+Testing alpha=0.7, beta=0.8, r_search=4, r_wait=0
+ Average Reward: 2901.63
+Testing alpha=0.7, beta=0.8, r_search=4, r_wait=1
+ Average Reward: 2984.36
+Testing alpha=0.7, beta=0.8, r_search=4, r_wait=2
+ Average Reward: 3052.70
+Testing alpha=0.7, beta=0.8, r_search=4, r_wait=3
+ Average Reward: 3061.10
+Testing alpha=0.7, beta=0.8, r_search=5, r_wait=0
+ Average Reward: 3683.99
+Testing alpha=0.7, beta=0.8, r_search=5, r_wait=1
+ Average Reward: 3772.03
+Testing alpha=0.7, beta=0.8, r_search=5, r_wait=2
+ Average Reward: 3856.95
+Testing alpha=0.7, beta=0.8, r_search=5, r_wait=3
+ Average Reward: 3934.50
+Testing alpha=0.7, beta=0.8, r_search=5, r_wait=4
+ Average Reward: 3970.39
+Testing alpha=0.7, beta=0.9, r_search=1, r_wait=0
+ Average Reward: 684.41
+Testing alpha=0.7, beta=0.9, r_search=2, r_wait=0
+ Average Reward: 1490.16
+Testing alpha=0.7, beta=0.9, r_search=2, r_wait=1
+ Average Reward: 1560.83
+Testing alpha=0.7, beta=0.9, r_search=3, r_wait=0
+ Average Reward: 2318.85
+Testing alpha=0.7, beta=0.9, r_search=3, r_wait=1
+ Average Reward: 2394.38
+Testing alpha=0.7, beta=0.9, r_search=3, r_wait=2
+ Average Reward: 2464.63
+Testing alpha=0.7, beta=0.9, r_search=4, r_wait=0
+ Average Reward: 3141.85
+Testing alpha=0.7, beta=0.9, r_search=4, r_wait=1
+ Average Reward: 3222.86
+Testing alpha=0.7, beta=0.9, r_search=4, r_wait=2
+ Average Reward: 3290.31
+Testing alpha=0.7, beta=0.9, r_search=4, r_wait=3
+ Average Reward: 3364.47
+Testing alpha=0.7, beta=0.9, r_search=5, r_wait=0
+ Average Reward: 3981.72
+Testing alpha=0.7, beta=0.9, r_search=5, r_wait=1
+ Average Reward: 4056.05
+Testing alpha=0.7, beta=0.9, r_search=5, r_wait=2
+ Average Reward: 4124.87
+Testing alpha=0.7, beta=0.9, r_search=5, r_wait=3
+ Average Reward: 4208.63
+Testing alpha=0.7, beta=0.9, r_search=5, r_wait=4
+ Average Reward: 4258.12
+Testing alpha=0.8, beta=0.1, r_search=1, r_wait=0
+ Average Reward: 731.11
+Testing alpha=0.8, beta=0.1, r_search=2, r_wait=0
+ Average Reward: 1488.80
+Testing alpha=0.8, beta=0.1, r_search=2, r_wait=1
+ Average Reward: 1577.86
+Testing alpha=0.8, beta=0.1, r_search=3, r_wait=0
+ Average Reward: 2239.92
+Testing alpha=0.8, beta=0.1, r_search=3, r_wait=1
+ Average Reward: 2331.64
+Testing alpha=0.8, beta=0.1, r_search=3, r_wait=2
+ Average Reward: 2412.88
+Testing alpha=0.8, beta=0.1, r_search=4, r_wait=0
+ Average Reward: 3007.25
+Testing alpha=0.8, beta=0.1, r_search=4, r_wait=1
+ Average Reward: 3095.41
+Testing alpha=0.8, beta=0.1, r_search=4, r_wait=2
+ Average Reward: 3189.69
+Testing alpha=0.8, beta=0.1, r_search=4, r_wait=3
+ Average Reward: 3183.23
+Testing alpha=0.8, beta=0.1, r_search=5, r_wait=0
+ Average Reward: 3761.98
+Testing alpha=0.8, beta=0.1, r_search=5, r_wait=1
+ Average Reward: 3846.79
+Testing alpha=0.8, beta=0.1, r_search=5, r_wait=2
+ Average Reward: 3933.90
+Testing alpha=0.8, beta=0.1, r_search=5, r_wait=3
+ Average Reward: 4030.18
+Testing alpha=0.8, beta=0.1, r_search=5, r_wait=4
+ Average Reward: 3990.55
+Testing alpha=0.8, beta=0.2, r_search=1, r_wait=0
+ Average Reward: 733.99
+Testing alpha=0.8, beta=0.2, r_search=2, r_wait=0
+ Average Reward: 1487.46
+Testing alpha=0.8, beta=0.2, r_search=2, r_wait=1
+ Average Reward: 1580.86
+Testing alpha=0.8, beta=0.2, r_search=3, r_wait=0
+ Average Reward: 2250.24
+Testing alpha=0.8, beta=0.2, r_search=3, r_wait=1
+ Average Reward: 2340.11
+Testing alpha=0.8, beta=0.2, r_search=3, r_wait=2
+ Average Reward: 2411.56
+Testing alpha=0.8, beta=0.2, r_search=4, r_wait=0
+ Average Reward: 3015.52
+Testing alpha=0.8, beta=0.2, r_search=4, r_wait=1
+ Average Reward: 3096.23
+Testing alpha=0.8, beta=0.2, r_search=4, r_wait=2
+ Average Reward: 3191.22
+Testing alpha=0.8, beta=0.2, r_search=4, r_wait=3
+ Average Reward: 3181.57
+Testing alpha=0.8, beta=0.2, r_search=5, r_wait=0
+ Average Reward: 3765.97
+Testing alpha=0.8, beta=0.2, r_search=5, r_wait=1
+ Average Reward: 3863.00
+Testing alpha=0.8, beta=0.2, r_search=5, r_wait=2
+ Average Reward: 3946.68
+Testing alpha=0.8, beta=0.2, r_search=5, r_wait=3
+ Average Reward: 4026.36
+Testing alpha=0.8, beta=0.2, r_search=5, r_wait=4
+ Average Reward: 3998.47
+Testing alpha=0.8, beta=0.3, r_search=1, r_wait=0
+ Average Reward: 735.97
+Testing alpha=0.8, beta=0.3, r_search=2, r_wait=0
+ Average Reward: 1493.11
+Testing alpha=0.8, beta=0.3, r_search=2, r_wait=1
+ Average Reward: 1587.16
+Testing alpha=0.8, beta=0.3, r_search=3, r_wait=0
+ Average Reward: 2254.89
+Testing alpha=0.8, beta=0.3, r_search=3, r_wait=1
+ Average Reward: 2345.76
+Testing alpha=0.8, beta=0.3, r_search=3, r_wait=2
+ Average Reward: 2416.86
+Testing alpha=0.8, beta=0.3, r_search=4, r_wait=0
+ Average Reward: 3014.12
+Testing alpha=0.8, beta=0.3, r_search=4, r_wait=1
+ Average Reward: 3106.57
+Testing alpha=0.8, beta=0.3, r_search=4, r_wait=2
+ Average Reward: 3201.77
+Testing alpha=0.8, beta=0.3, r_search=4, r_wait=3
+ Average Reward: 3175.32
+Testing alpha=0.8, beta=0.3, r_search=5, r_wait=0
+ Average Reward: 3764.45
+Testing alpha=0.8, beta=0.3, r_search=5, r_wait=1
+ Average Reward: 3870.81
+Testing alpha=0.8, beta=0.3, r_search=5, r_wait=2
+ Average Reward: 3950.83
+Testing alpha=0.8, beta=0.3, r_search=5, r_wait=3
+ Average Reward: 4034.14
+Testing alpha=0.8, beta=0.3, r_search=5, r_wait=4
+ Average Reward: 4020.13
+Testing alpha=0.8, beta=0.4, r_search=1, r_wait=0
+ Average Reward: 738.02
+Testing alpha=0.8, beta=0.4, r_search=2, r_wait=0
+ Average Reward: 1496.49
+Testing alpha=0.8, beta=0.4, r_search=2, r_wait=1
+ Average Reward: 1588.18
+Testing alpha=0.8, beta=0.4, r_search=3, r_wait=0
+ Average Reward: 2267.82
+Testing alpha=0.8, beta=0.4, r_search=3, r_wait=1
+ Average Reward: 2347.25
+Testing alpha=0.8, beta=0.4, r_search=3, r_wait=2
+ Average Reward: 2416.91
+Testing alpha=0.8, beta=0.4, r_search=4, r_wait=0
+ Average Reward: 3023.29
+Testing alpha=0.8, beta=0.4, r_search=4, r_wait=1
+ Average Reward: 3104.15
+Testing alpha=0.8, beta=0.4, r_search=4, r_wait=2
+ Average Reward: 3195.11
+Testing alpha=0.8, beta=0.4, r_search=4, r_wait=3
+ Average Reward: 3171.79
+Testing alpha=0.8, beta=0.4, r_search=5, r_wait=0
+ Average Reward: 3785.26
+Testing alpha=0.8, beta=0.4, r_search=5, r_wait=1
+ Average Reward: 3866.41
+Testing alpha=0.8, beta=0.4, r_search=5, r_wait=2
+ Average Reward: 3952.07
+Testing alpha=0.8, beta=0.4, r_search=5, r_wait=3
+ Average Reward: 4047.54
+Testing alpha=0.8, beta=0.4, r_search=5, r_wait=4
+ Average Reward: 4025.86
+Testing alpha=0.8, beta=0.5, r_search=1, r_wait=0
+ Average Reward: 743.61
+Testing alpha=0.8, beta=0.5, r_search=2, r_wait=0
+ Average Reward: 1504.64
+Testing alpha=0.8, beta=0.5, r_search=2, r_wait=1
+ Average Reward: 1591.70
+Testing alpha=0.8, beta=0.5, r_search=3, r_wait=0
+ Average Reward: 2261.67
+Testing alpha=0.8, beta=0.5, r_search=3, r_wait=1
+ Average Reward: 2353.01
+Testing alpha=0.8, beta=0.5, r_search=3, r_wait=2
+ Average Reward: 2418.86
+Testing alpha=0.8, beta=0.5, r_search=4, r_wait=0
+ Average Reward: 3019.02
+Testing alpha=0.8, beta=0.5, r_search=4, r_wait=1
+ Average Reward: 3110.76
+Testing alpha=0.8, beta=0.5, r_search=4, r_wait=2
+ Average Reward: 3200.04
+Testing alpha=0.8, beta=0.5, r_search=4, r_wait=3
+ Average Reward: 3169.72
+Testing alpha=0.8, beta=0.5, r_search=5, r_wait=0
+ Average Reward: 3784.52
+Testing alpha=0.8, beta=0.5, r_search=5, r_wait=1
+ Average Reward: 3862.75
+Testing alpha=0.8, beta=0.5, r_search=5, r_wait=2
+ Average Reward: 3946.97
+Testing alpha=0.8, beta=0.5, r_search=5, r_wait=3
+ Average Reward: 4042.18
+Testing alpha=0.8, beta=0.5, r_search=5, r_wait=4
+ Average Reward: 4033.20
+Testing alpha=0.8, beta=0.6, r_search=1, r_wait=0
+ Average Reward: 744.12
+Testing alpha=0.8, beta=0.6, r_search=2, r_wait=0
+ Average Reward: 1505.82
+Testing alpha=0.8, beta=0.6, r_search=2, r_wait=1
+ Average Reward: 1595.45
+Testing alpha=0.8, beta=0.6, r_search=3, r_wait=0
+ Average Reward: 2263.89
+Testing alpha=0.8, beta=0.6, r_search=3, r_wait=1
+ Average Reward: 2354.52
+Testing alpha=0.8, beta=0.6, r_search=3, r_wait=2
+ Average Reward: 2427.27
+Testing alpha=0.8, beta=0.6, r_search=4, r_wait=0
+ Average Reward: 3034.62
+Testing alpha=0.8, beta=0.6, r_search=4, r_wait=1
+ Average Reward: 3119.44
+Testing alpha=0.8, beta=0.6, r_search=4, r_wait=2
+ Average Reward: 3199.07
+Testing alpha=0.8, beta=0.6, r_search=4, r_wait=3
+ Average Reward: 3163.60
+Testing alpha=0.8, beta=0.6, r_search=5, r_wait=0
+ Average Reward: 3766.80
+Testing alpha=0.8, beta=0.6, r_search=5, r_wait=1
+ Average Reward: 3869.00
+Testing alpha=0.8, beta=0.6, r_search=5, r_wait=2
+ Average Reward: 3958.07
+Testing alpha=0.8, beta=0.6, r_search=5, r_wait=3
+ Average Reward: 4045.98
+Testing alpha=0.8, beta=0.6, r_search=5, r_wait=4
+ Average Reward: 4035.13
+Testing alpha=0.8, beta=0.7, r_search=1, r_wait=0
+ Average Reward: 749.28
+Testing alpha=0.8, beta=0.7, r_search=2, r_wait=0
+ Average Reward: 1510.71
+Testing alpha=0.8, beta=0.7, r_search=2, r_wait=1
+ Average Reward: 1595.15
+Testing alpha=0.8, beta=0.7, r_search=3, r_wait=0
+ Average Reward: 2265.21
+Testing alpha=0.8, beta=0.7, r_search=3, r_wait=1
+ Average Reward: 2355.70
+Testing alpha=0.8, beta=0.7, r_search=3, r_wait=2
+ Average Reward: 2426.87
+Testing alpha=0.8, beta=0.7, r_search=4, r_wait=0
+ Average Reward: 3000.27
+Testing alpha=0.8, beta=0.7, r_search=4, r_wait=1
+ Average Reward: 3089.55
+Testing alpha=0.8, beta=0.7, r_search=4, r_wait=2
+ Average Reward: 3187.05
+Testing alpha=0.8, beta=0.7, r_search=4, r_wait=3
+ Average Reward: 3160.32
+Testing alpha=0.8, beta=0.7, r_search=5, r_wait=0
+ Average Reward: 3744.39
+Testing alpha=0.8, beta=0.7, r_search=5, r_wait=1
+ Average Reward: 3844.46
+Testing alpha=0.8, beta=0.7, r_search=5, r_wait=2
+ Average Reward: 3932.95
+Testing alpha=0.8, beta=0.7, r_search=5, r_wait=3
+ Average Reward: 4009.80
+Testing alpha=0.8, beta=0.7, r_search=5, r_wait=4
+ Average Reward: 4053.15
+Testing alpha=0.8, beta=0.8, r_search=1, r_wait=0
+ Average Reward: 752.92
+Testing alpha=0.8, beta=0.8, r_search=2, r_wait=0
+ Average Reward: 1499.78
+Testing alpha=0.8, beta=0.8, r_search=2, r_wait=1
+ Average Reward: 1597.06
+Testing alpha=0.8, beta=0.8, r_search=3, r_wait=0
+ Average Reward: 2241.93
+Testing alpha=0.8, beta=0.8, r_search=3, r_wait=1
+ Average Reward: 2330.41
+Testing alpha=0.8, beta=0.8, r_search=3, r_wait=2
+ Average Reward: 2410.11
+Testing alpha=0.8, beta=0.8, r_search=4, r_wait=0
+ Average Reward: 3049.58
+Testing alpha=0.8, beta=0.8, r_search=4, r_wait=1
+ Average Reward: 3116.74
+Testing alpha=0.8, beta=0.8, r_search=4, r_wait=2
+ Average Reward: 3201.87
+Testing alpha=0.8, beta=0.8, r_search=4, r_wait=3
+ Average Reward: 3245.73
+Testing alpha=0.8, beta=0.8, r_search=5, r_wait=0
+ Average Reward: 3844.80
+Testing alpha=0.8, beta=0.8, r_search=5, r_wait=1
+ Average Reward: 3933.43
+Testing alpha=0.8, beta=0.8, r_search=5, r_wait=2
+ Average Reward: 4021.77
+Testing alpha=0.8, beta=0.8, r_search=5, r_wait=3
+ Average Reward: 4094.38
+Testing alpha=0.8, beta=0.8, r_search=5, r_wait=4
+ Average Reward: 4086.91
+Testing alpha=0.8, beta=0.9, r_search=1, r_wait=0
+ Average Reward: 742.19
+Testing alpha=0.8, beta=0.9, r_search=2, r_wait=0
+ Average Reward: 1532.31
+Testing alpha=0.8, beta=0.9, r_search=2, r_wait=1
+ Average Reward: 1612.64
+Testing alpha=0.8, beta=0.9, r_search=3, r_wait=0
+ Average Reward: 2370.42
+Testing alpha=0.8, beta=0.9, r_search=3, r_wait=1
+ Average Reward: 2451.88
+Testing alpha=0.8, beta=0.9, r_search=3, r_wait=2
+ Average Reward: 2526.47
+Testing alpha=0.8, beta=0.9, r_search=4, r_wait=0
+ Average Reward: 3204.83
+Testing alpha=0.8, beta=0.9, r_search=4, r_wait=1
+ Average Reward: 3299.01
+Testing alpha=0.8, beta=0.9, r_search=4, r_wait=2
+ Average Reward: 3374.63
+Testing alpha=0.8, beta=0.9, r_search=4, r_wait=3
+ Average Reward: 3452.11
+Testing alpha=0.8, beta=0.9, r_search=5, r_wait=0
+ Average Reward: 4052.98
+Testing alpha=0.8, beta=0.9, r_search=5, r_wait=1
+ Average Reward: 4127.93
+Testing alpha=0.8, beta=0.9, r_search=5, r_wait=2
+ Average Reward: 4207.00
+Testing alpha=0.8, beta=0.9, r_search=5, r_wait=3
+ Average Reward: 4287.14
+Testing alpha=0.8, beta=0.9, r_search=5, r_wait=4
+ Average Reward: 4359.61
+Testing alpha=0.9, beta=0.1, r_search=1, r_wait=0
+ Average Reward: 810.08
+Testing alpha=0.9, beta=0.1, r_search=2, r_wait=0
+ Average Reward: 1634.76
+Testing alpha=0.9, beta=0.1, r_search=2, r_wait=1
+ Average Reward: 1725.40
+Testing alpha=0.9, beta=0.1, r_search=3, r_wait=0
+ Average Reward: 2463.24
+Testing alpha=0.9, beta=0.1, r_search=3, r_wait=1
+ Average Reward: 2558.18
+Testing alpha=0.9, beta=0.1, r_search=3, r_wait=2
+ Average Reward: 2638.84
+Testing alpha=0.9, beta=0.1, r_search=4, r_wait=0
+ Average Reward: 3285.95
+Testing alpha=0.9, beta=0.1, r_search=4, r_wait=1
+ Average Reward: 3383.22
+Testing alpha=0.9, beta=0.1, r_search=4, r_wait=2
+ Average Reward: 3469.47
+Testing alpha=0.9, beta=0.1, r_search=4, r_wait=3
+ Average Reward: 3535.83
+Testing alpha=0.9, beta=0.1, r_search=5, r_wait=0
+ Average Reward: 4112.19
+Testing alpha=0.9, beta=0.1, r_search=5, r_wait=1
+ Average Reward: 4194.80
+Testing alpha=0.9, beta=0.1, r_search=5, r_wait=2
+ Average Reward: 4290.86
+Testing alpha=0.9, beta=0.1, r_search=5, r_wait=3
+ Average Reward: 4388.70
+Testing alpha=0.9, beta=0.1, r_search=5, r_wait=4
+ Average Reward: 4401.44
+Testing alpha=0.9, beta=0.2, r_search=1, r_wait=0
+ Average Reward: 811.35
+Testing alpha=0.9, beta=0.2, r_search=2, r_wait=0
+ Average Reward: 1635.71
+Testing alpha=0.9, beta=0.2, r_search=2, r_wait=1
+ Average Reward: 1728.27
+Testing alpha=0.9, beta=0.2, r_search=3, r_wait=0
+ Average Reward: 2455.89
+Testing alpha=0.9, beta=0.2, r_search=3, r_wait=1
+ Average Reward: 2554.39
+Testing alpha=0.9, beta=0.2, r_search=3, r_wait=2
+ Average Reward: 2647.70
+Testing alpha=0.9, beta=0.2, r_search=4, r_wait=0
+ Average Reward: 3280.51
+Testing alpha=0.9, beta=0.2, r_search=4, r_wait=1
+ Average Reward: 3376.86
+Testing alpha=0.9, beta=0.2, r_search=4, r_wait=2
+ Average Reward: 3468.32
+Testing alpha=0.9, beta=0.2, r_search=4, r_wait=3
+ Average Reward: 3538.05
+Testing alpha=0.9, beta=0.2, r_search=5, r_wait=0
+ Average Reward: 4117.06
+Testing alpha=0.9, beta=0.2, r_search=5, r_wait=1
+ Average Reward: 4205.90
+Testing alpha=0.9, beta=0.2, r_search=5, r_wait=2
+ Average Reward: 4299.14
+Testing alpha=0.9, beta=0.2, r_search=5, r_wait=3
+ Average Reward: 4392.94
+Testing alpha=0.9, beta=0.2, r_search=5, r_wait=4
+ Average Reward: 4405.81
+Testing alpha=0.9, beta=0.3, r_search=1, r_wait=0
+ Average Reward: 812.21
+Testing alpha=0.9, beta=0.3, r_search=2, r_wait=0
+ Average Reward: 1636.12
+Testing alpha=0.9, beta=0.3, r_search=2, r_wait=1
+ Average Reward: 1731.97
+Testing alpha=0.9, beta=0.3, r_search=3, r_wait=0
+ Average Reward: 2459.61
+Testing alpha=0.9, beta=0.3, r_search=3, r_wait=1
+ Average Reward: 2554.85
+Testing alpha=0.9, beta=0.3, r_search=3, r_wait=2
+ Average Reward: 2649.72
+Testing alpha=0.9, beta=0.3, r_search=4, r_wait=0
+ Average Reward: 3288.07
+Testing alpha=0.9, beta=0.3, r_search=4, r_wait=1
+ Average Reward: 3383.45
+Testing alpha=0.9, beta=0.3, r_search=4, r_wait=2
+ Average Reward: 3478.65
+Testing alpha=0.9, beta=0.3, r_search=4, r_wait=3
+ Average Reward: 3536.64
+Testing alpha=0.9, beta=0.3, r_search=5, r_wait=0
+ Average Reward: 4119.53
+Testing alpha=0.9, beta=0.3, r_search=5, r_wait=1
+ Average Reward: 4206.95
+Testing alpha=0.9, beta=0.3, r_search=5, r_wait=2
+ Average Reward: 4306.91
+Testing alpha=0.9, beta=0.3, r_search=5, r_wait=3
+ Average Reward: 4391.62
+Testing alpha=0.9, beta=0.3, r_search=5, r_wait=4
+ Average Reward: 4395.94
+Testing alpha=0.9, beta=0.4, r_search=1, r_wait=0
+ Average Reward: 812.59
+Testing alpha=0.9, beta=0.4, r_search=2, r_wait=0
+ Average Reward: 1637.08
+Testing alpha=0.9, beta=0.4, r_search=2, r_wait=1
+ Average Reward: 1735.11
+Testing alpha=0.9, beta=0.4, r_search=3, r_wait=0
+ Average Reward: 2468.55
+Testing alpha=0.9, beta=0.4, r_search=3, r_wait=1
+ Average Reward: 2558.58
+Testing alpha=0.9, beta=0.4, r_search=3, r_wait=2
+ Average Reward: 2640.94
+Testing alpha=0.9, beta=0.4, r_search=4, r_wait=0
+ Average Reward: 3291.33
+Testing alpha=0.9, beta=0.4, r_search=4, r_wait=1
+ Average Reward: 3386.45
+Testing alpha=0.9, beta=0.4, r_search=4, r_wait=2
+ Average Reward: 3470.53
+Testing alpha=0.9, beta=0.4, r_search=4, r_wait=3
+ Average Reward: 3538.83
+Testing alpha=0.9, beta=0.4, r_search=5, r_wait=0
+ Average Reward: 4106.87
+Testing alpha=0.9, beta=0.4, r_search=5, r_wait=1
+ Average Reward: 4205.85
+Testing alpha=0.9, beta=0.4, r_search=5, r_wait=2
+ Average Reward: 4303.45
+Testing alpha=0.9, beta=0.4, r_search=5, r_wait=3
+ Average Reward: 4387.73
+Testing alpha=0.9, beta=0.4, r_search=5, r_wait=4
+ Average Reward: 4392.77
+Testing alpha=0.9, beta=0.5, r_search=1, r_wait=0
+ Average Reward: 816.53
+Testing alpha=0.9, beta=0.5, r_search=2, r_wait=0
+ Average Reward: 1645.18
+Testing alpha=0.9, beta=0.5, r_search=2, r_wait=1
+ Average Reward: 1730.79
+Testing alpha=0.9, beta=0.5, r_search=3, r_wait=0
+ Average Reward: 2469.21
+Testing alpha=0.9, beta=0.5, r_search=3, r_wait=1
+ Average Reward: 2555.51
+Testing alpha=0.9, beta=0.5, r_search=3, r_wait=2
+ Average Reward: 2647.01
+Testing alpha=0.9, beta=0.5, r_search=4, r_wait=0
+ Average Reward: 3296.84
+Testing alpha=0.9, beta=0.5, r_search=4, r_wait=1
+ Average Reward: 3383.16
+Testing alpha=0.9, beta=0.5, r_search=4, r_wait=2
+ Average Reward: 3477.42
+Testing alpha=0.9, beta=0.5, r_search=4, r_wait=3
+ Average Reward: 3531.38
+Testing alpha=0.9, beta=0.5, r_search=5, r_wait=0
+ Average Reward: 4110.53
+Testing alpha=0.9, beta=0.5, r_search=5, r_wait=1
+ Average Reward: 4204.93
+Testing alpha=0.9, beta=0.5, r_search=5, r_wait=2
+ Average Reward: 4302.25
+Testing alpha=0.9, beta=0.5, r_search=5, r_wait=3
+ Average Reward: 4392.90
+Testing alpha=0.9, beta=0.5, r_search=5, r_wait=4
+ Average Reward: 4382.50
+Testing alpha=0.9, beta=0.6, r_search=1, r_wait=0
+ Average Reward: 820.35
+Testing alpha=0.9, beta=0.6, r_search=2, r_wait=0
+ Average Reward: 1643.61
+Testing alpha=0.9, beta=0.6, r_search=2, r_wait=1
+ Average Reward: 1734.27
+Testing alpha=0.9, beta=0.6, r_search=3, r_wait=0
+ Average Reward: 2466.93
+Testing alpha=0.9, beta=0.6, r_search=3, r_wait=1
+ Average Reward: 2559.68
+Testing alpha=0.9, beta=0.6, r_search=3, r_wait=2
+ Average Reward: 2653.23
+Testing alpha=0.9, beta=0.6, r_search=4, r_wait=0
+ Average Reward: 3293.53
+Testing alpha=0.9, beta=0.6, r_search=4, r_wait=1
+ Average Reward: 3390.06
+Testing alpha=0.9, beta=0.6, r_search=4, r_wait=2
+ Average Reward: 3479.05
+Testing alpha=0.9, beta=0.6, r_search=4, r_wait=3
+ Average Reward: 3533.49
+Testing alpha=0.9, beta=0.6, r_search=5, r_wait=0
+ Average Reward: 4110.52
+Testing alpha=0.9, beta=0.6, r_search=5, r_wait=1
+ Average Reward: 4212.45
+Testing alpha=0.9, beta=0.6, r_search=5, r_wait=2
+ Average Reward: 4301.46
+Testing alpha=0.9, beta=0.6, r_search=5, r_wait=3
+ Average Reward: 4389.40
+Testing alpha=0.9, beta=0.6, r_search=5, r_wait=4
+ Average Reward: 4380.09
+Testing alpha=0.9, beta=0.7, r_search=1, r_wait=0
+ Average Reward: 820.35
+Testing alpha=0.9, beta=0.7, r_search=2, r_wait=0
+ Average Reward: 1645.28
+Testing alpha=0.9, beta=0.7, r_search=2, r_wait=1
+ Average Reward: 1739.80
+Testing alpha=0.9, beta=0.7, r_search=3, r_wait=0
+ Average Reward: 2468.82
+Testing alpha=0.9, beta=0.7, r_search=3, r_wait=1
+ Average Reward: 2560.40
+Testing alpha=0.9, beta=0.7, r_search=3, r_wait=2
+ Average Reward: 2651.96
+Testing alpha=0.9, beta=0.7, r_search=4, r_wait=0
+ Average Reward: 3284.69
+Testing alpha=0.9, beta=0.7, r_search=4, r_wait=1
+ Average Reward: 3382.10
+Testing alpha=0.9, beta=0.7, r_search=4, r_wait=2
+ Average Reward: 3476.86
+Testing alpha=0.9, beta=0.7, r_search=4, r_wait=3
+ Average Reward: 3526.75
+Testing alpha=0.9, beta=0.7, r_search=5, r_wait=0
+ Average Reward: 4091.49
+Testing alpha=0.9, beta=0.7, r_search=5, r_wait=1
+ Average Reward: 4193.52
+Testing alpha=0.9, beta=0.7, r_search=5, r_wait=2
+ Average Reward: 4284.44
+Testing alpha=0.9, beta=0.7, r_search=5, r_wait=3
+ Average Reward: 4378.63
+Testing alpha=0.9, beta=0.7, r_search=5, r_wait=4
+ Average Reward: 4370.67
+Testing alpha=0.9, beta=0.8, r_search=1, r_wait=0
+ Average Reward: 821.90
+Testing alpha=0.9, beta=0.8, r_search=2, r_wait=0
+ Average Reward: 1643.55
+Testing alpha=0.9, beta=0.8, r_search=2, r_wait=1
+ Average Reward: 1741.32
+Testing alpha=0.9, beta=0.8, r_search=3, r_wait=0
+ Average Reward: 2458.50
+Testing alpha=0.9, beta=0.8, r_search=3, r_wait=1
+ Average Reward: 2547.43
+Testing alpha=0.9, beta=0.8, r_search=3, r_wait=2
+ Average Reward: 2642.72
+Testing alpha=0.9, beta=0.8, r_search=4, r_wait=0
+ Average Reward: 3273.50
+Testing alpha=0.9, beta=0.8, r_search=4, r_wait=1
+ Average Reward: 3363.28
+Testing alpha=0.9, beta=0.8, r_search=4, r_wait=2
+ Average Reward: 3445.94
+Testing alpha=0.9, beta=0.8, r_search=4, r_wait=3
+ Average Reward: 3543.30
+Testing alpha=0.9, beta=0.8, r_search=5, r_wait=0
+ Average Reward: 4096.80
+Testing alpha=0.9, beta=0.8, r_search=5, r_wait=1
+ Average Reward: 4185.57
+Testing alpha=0.9, beta=0.8, r_search=5, r_wait=2
+ Average Reward: 4283.57
+Testing alpha=0.9, beta=0.8, r_search=5, r_wait=3
+ Average Reward: 4369.69
+Testing alpha=0.9, beta=0.8, r_search=5, r_wait=4
+ Average Reward: 4418.74
+Testing alpha=0.9, beta=0.9, r_search=1, r_wait=0
+ Average Reward: 819.67
+Testing alpha=0.9, beta=0.9, r_search=2, r_wait=0
+ Average Reward: 1631.45
+Testing alpha=0.9, beta=0.9, r_search=2, r_wait=1
+ Average Reward: 1723.54
+Testing alpha=0.9, beta=0.9, r_search=3, r_wait=0
+ Average Reward: 2480.01
+Testing alpha=0.9, beta=0.9, r_search=3, r_wait=1
+ Average Reward: 2561.36
+Testing alpha=0.9, beta=0.9, r_search=3, r_wait=2
+ Average Reward: 2645.05
+Testing alpha=0.9, beta=0.9, r_search=4, r_wait=0
+ Average Reward: 3345.45
+Testing alpha=0.9, beta=0.9, r_search=4, r_wait=1
+ Average Reward: 3426.31
+Testing alpha=0.9, beta=0.9, r_search=4, r_wait=2
+ Average Reward: 3509.54
+Testing alpha=0.9, beta=0.9, r_search=4, r_wait=3
+ Average Reward: 3584.75
+Testing alpha=0.9, beta=0.9, r_search=5, r_wait=0
+ Average Reward: 4198.01
+Testing alpha=0.9, beta=0.9, r_search=5, r_wait=1
+ Average Reward: 4281.03
+Testing alpha=0.9, beta=0.9, r_search=5, r_wait=2
+ Average Reward: 4358.46
+Testing alpha=0.9, beta=0.9, r_search=5, r_wait=3
+ Average Reward: 4449.57
+Testing alpha=0.9, beta=0.9, r_search=5, r_wait=4
+ Average Reward: 4527.14
+
+Best combination: alpha=0.9, beta=0.9, r_search=5, r_wait=4
+Best average reward: 4527.14
+
+Running with best parameters (alpha=0.9, beta=0.9, r_search=5, r_wait=4)
+
+Learned V(s): {'high': np.float64(47.36396418912372), 'low': np.float64(43.54815538634118)}
+
+Optimal policy:
+  high: {'search': 0.9500000000000001, 'wait': 0.05}
+  low: {'search': 0.9333333333333333, 'wait': 0.03333333333333333, 'recharge': 0.03333333333333333}
+
+Average reward: 4532.95
