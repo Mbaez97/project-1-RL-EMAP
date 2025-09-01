@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""Recycling Robot training script extracted from the notebook.
-
-Creates a RecyclingRobot environment and runs a TD(0)-based training loop.
-Saves epoch rewards to `rewards.txt` and writes two plots: `rewards.png` and
-`policy_heatmap.png` in the current working directory.
-
-Usage example (defaults are taken from the notebook):
-  python recycling_robot.py --alpha_prob 0.9 --beta_prob 0.3 --r_search 5.0 --r_wait 1.0 --learning_rate 0.1 --epoch_steps 1000
-"""
-
 import argparse
 import random
 from enum import Enum
