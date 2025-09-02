@@ -128,3 +128,5 @@ cython_debug/
 
 # VsCode settings
 .vscode/
+
+runs/
