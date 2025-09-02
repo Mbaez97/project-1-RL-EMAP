@@ -17,7 +17,7 @@ Problem Setup (MDP)
     - SEARCH: stays in LOW with probability β (reward r_search); with 1−β it fails and is “rescued” → transitions to HIGH with rescue penalty r_rescue < 0.
     - WAIT: stays in LOW. Reward r_wait.
     - RECHARGE: transitions to HIGH with zero reward.
-- Key parameters: α (alpha_prob), β (beta_prob), r_search, r_wait, r_rescue (default −3.0 in code).
+- Key parameters: α (alpha_prob), β (beta_prob), r_search, r_wait (r_search > r_wait).
 - Discount factor γ ∈ (0,1).
 
 Methodology
@@ -29,7 +29,7 @@ Methodology
 
 Default Hyperparameters
 
-- Epochs: 50; Steps/epoch: 1000; Learning rate α_lr: 0.1; Discount γ: 0.9.
+- Epochs: 50; Steps/epoch: 1000; Learning rate α_lr: 0.1; Discount γ: 0.9; r_rescue: −3.0.
 - Fixed random seed for reproducibility.
 
 Repository Layout
@@ -88,17 +88,6 @@ Interpreting Results
 - Policy heatmap:
   - In HIGH: larger α or larger r_search favors SEARCH.
   - In LOW: smaller β and more negative r_rescue favor RECHARGE; larger r_wait can favor WAIT.
-
-Reproducibility
-
-- Fixed Python RNG seed in code; grid runs store exact parameters in each run directory (params.txt).
-
-Limitations & Future Work
-
-- Expose r_rescue as a command‑line parameter and study its effect; compare TD(0) with MC and TD(λ); try control algorithms (SARSA, Q‑learning).
-- Extend the environment (e.g., recharge costs, partial observability, more battery levels).
-- Add unit tests and additional validation.
-- Compare against dynamic programming solutions in simplified settings.
 
 References
 
