@@ -98,3 +98,9 @@ Appendix: Notebooks (Team Exploration)
 - See `notebooks/leiton_files/marcelo.ipynb` 
 - See `notebooks/marcelo_files/marcelo.ipynb` 
 - See `notebooks/santiago_files/marcelo.ipynb` 
+
+Autors
+
+- Leighton Estrada
+- Marcelo Baez
+- Santiago Ferreyra
