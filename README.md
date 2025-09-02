@@ -17,7 +17,7 @@ Problem Setup (MDP)
     - SEARCH: stays in LOW with probability β (reward r_search); with 1−β it fails and is “rescued” → transitions to HIGH with rescue penalty r_rescue < 0.
     - WAIT: stays in LOW. Reward r_wait.
     - RECHARGE: transitions to HIGH with zero reward.
-- Key parameters: α (alpha_prob), β (beta_prob), r_search, r_wait, r_rescue (negative rescue penalty; default −3.0 in code).
+- Key parameters: α (alpha_prob), β (beta_prob), r_search, r_wait, r_rescue (default −3.0 in code).
 - Discount factor γ ∈ (0,1).
 
 Methodology
@@ -36,7 +36,6 @@ Repository Layout
 
 - recycling_robot.py: environment, TD(0), greedy improvement, plotting (rewards curve and policy heatmap).
 - run_experiments.sh: runs a parameter grid, saving outputs under runs/.
-- notebooks/: team exploration notebooks; e.g., notebooks/marcelo_files/marcelo.ipynb.
 - Example single‑run outputs at repo root: rewards.txt, rewards.png, policy_heatmap.png.
 
 How to Run a Single Experiment
@@ -89,7 +88,6 @@ Interpreting Results
 - Policy heatmap:
   - In HIGH: larger α or larger r_search favors SEARCH.
   - In LOW: smaller β and more negative r_rescue favor RECHARGE; larger r_wait can favor WAIT.
-  - deterministic shows crisp 0/1 choices; softmax shows graded preferences useful for near‑ties.
 
 Reproducibility
 
@@ -106,6 +104,8 @@ References
 
 - Richard S. Sutton and Andrew G. Barto. Reinforcement Learning: An Introduction. 2nd ed., 2018.
 
-Appendix: Notebooks
+Appendix: Notebooks (Team Exploration)
 
-- See `notebooks/marcelo_files/marcelo.ipynb` for value evolution, reward curve, and action‑probability heatmaps consistent with this pipeline.
+- See `notebooks/leiton_files/marcelo.ipynb` 
+- See `notebooks/marcelo_files/marcelo.ipynb` 
+- See `notebooks/santiago_files/marcelo.ipynb` 
