@@ -30,7 +30,7 @@ class Action(Enum):
 class RecyclingRobot:
     """The Recycling Robot Environment."""
 
-    def __init__(self, alpha_prob=0.9, beta_prob=0.3, r_search=5.0, r_wait=1.0, r_rescue=-10.0):
+    def __init__(self, alpha_prob=0.9, beta_prob=0.3, r_search=5.0, r_wait=1.0, r_rescue=-3.0):
         self.states = list(State)
         self.actions = list(Action)
         self.alpha_prob = float(alpha_prob)
@@ -91,7 +91,8 @@ def policy_improvement_from_V(env: RecyclingRobot, V: dict, gamma: float):
                 elif a == Action.WAIT:
                     q = env.r_wait + gamma * V[State.HIGH]
                 else:
-                    q = 0.0 + gamma * V[State.HIGH]
+                    #q = 0.0 + gamma * V[State.HIGH]
+                    q = 0.0
             else:
                 if a == Action.SEARCH:
                     beta = env.beta_prob
@@ -122,7 +123,8 @@ def policy_action_probabilities_from_V(env: RecyclingRobot, V: dict, gamma: floa
                 elif a == Action.WAIT:
                     q = env.r_wait + gamma * V[State.HIGH]
                 else:
-                    q = 0.0 + gamma * V[State.HIGH]
+                    #q = 0.0 + gamma * V[State.HIGH]
+                    q = 0.0
             else:
                 if a == Action.SEARCH:
                     beta_p = env.beta_prob
